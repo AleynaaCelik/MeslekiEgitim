@@ -12,3 +12,9 @@ Github ve git ile ilgili bilgi toplanıp not hazırlandı.Github özellikleri
   Githubdan bir dosyaı clonlama,değişiklik yapma,bunu tekrar gönderme merge etme brach oluşturma gibi terimler öğrenilip uygulama yapıldı.
 24.03
 github eğitimi verildi Git bash ve Git Gui uygulamaları yapıldı.Dha sonra bir gezi seyehat sitesine başlandı
+27.02
+Docker temelleieri nedir nerelerde kullanılır Docker
+28.02
+Veri merkezi nedir
+ne işe yarar ne rede kullanılır
+Ram bulma entegre etme uyumluluğunu kontrol etme hasar tespiti
