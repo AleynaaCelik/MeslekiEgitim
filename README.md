@@ -19,3 +19,7 @@ Veri merkezi nedir
 ne işe yarar ne rede kullanılır
 Ram bulma entegre etme uyumluluğunu kontrol etme hasar tespiti
 Agile (ÇEVİK) Metodolojiler ve SCRUM hakkınd bilgi verildi
+01.03.2023
+TFTP protoklü Tcp protokolü kullanımı bunu cisco packer tracerde deneme
+Active Directory e giriş
+Depodaki ürülerin çalışır oluğ olmadığının kontrolü
