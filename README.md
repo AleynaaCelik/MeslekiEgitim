@@ -22,4 +22,5 @@ Agile (ÇEVİK) Metodolojiler ve SCRUM hakkınd bilgi verildi
 01.03.2023
 TFTP protoklü Tcp protokolü kullanımı bunu cisco packer tracerde deneme
 Active Directory e giriş
+Forest.Tree.Domain,domain controller,global catalog,additional dc kavramları öğrenildi.
 Depodaki ürülerin çalışır oluğ olmadığının kontrolü
