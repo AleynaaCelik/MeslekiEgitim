@@ -24,3 +24,7 @@ TFTP protoklü Tcp protokolü kullanımı bunu cisco packer tracerde deneme
 Active Directory e giriş
 Forest.Tree.Domain,domain controller,global catalog,additional dc kavramları öğrenildi.
 Depodaki ürülerin çalışır oluğ olmadığının kontrolü
+02.03.2023
+Active Directory Mantıksal yapısı LDAP ,Domain,Domain Tree,OU,Glaobal catalog kavramı
+Active directory güvenliği ACTİVE DİRECTORY lOGLAMA 
+aCTİVE DİRECTORY FİZİKSEL YAPISI 
