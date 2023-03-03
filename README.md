@@ -28,3 +28,15 @@ Depodaki ürülerin çalışır oluğ olmadığının kontrolü
 Active Directory Mantıksal yapısı LDAP ,Domain,Domain Tree,OU,Glaobal catalog kavramı
 Active directory güvenliği ACTİVE DİRECTORY lOGLAMA 
 aCTİVE DİRECTORY FİZİKSEL YAPISI 
+03.03
+Winwows saldırı teknikleri 
+Öncelikle bir saldırı nasıl yapılır? Bu saldırlar nedir?Bu saldırılara karşı alınann önlemler(sıkılaştırmalar )nedir?
+Sürekli Karşımıza çıkabilecek Saldırırlar
+Mimikatz
+DCSYNC Saldırıları
+Pass the Hash
+Golden Ticket 
+Silver Ticket
+Kerberos
+Powershell Saldırıları
+
