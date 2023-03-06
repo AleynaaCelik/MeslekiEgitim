@@ -42,3 +42,7 @@ Powershell Saldırıları
 06.03
 Ortak zamanlayıcı sitesi araştırılması sonucu https://rallly.co sitesinin keşfi
 Windows sıkılaştırma işlemleri
+Windows Sitemlerde Ağ Hizmetleri Sıkılaştırılması 
+Windows Sistem ve Domain Sıkılaştırmaları 
+Windows Politika Prosedür ve Süreç İyileştirmeleri
+İLERİ SEVİYE GÜVENLİK GEREKTİREN ALANLAR
