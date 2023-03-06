@@ -46,3 +46,5 @@ Windows Sitemlerde Ağ Hizmetleri Sıkılaştırılması
 Windows Sistem ve Domain Sıkılaştırmaları 
 Windows Politika Prosedür ve Süreç İyileştirmeleri
 İLERİ SEVİYE GÜVENLİK GEREKTİREN ALANLAR
+Güvenlik Duvarı (Firewall) ve loglama 
+Güvenlik Duvarı Kuralları ve Sıkılaştırma İşlemleri
