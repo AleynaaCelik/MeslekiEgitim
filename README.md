@@ -39,4 +39,6 @@ Golden Ticket
 Silver Ticket
 Kerberos
 Powershell Saldırıları
-
+06.03
+Ortak zamanlayıcı sitesi araştırılması sonucu https://rallly.co sitesinin keşfi
+Windows sıkılaştırma işlemleri
