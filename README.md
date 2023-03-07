@@ -29,6 +29,7 @@ Active Directory Mantıksal yapısı LDAP ,Domain,Domain Tree,OU,Glaobal catalog
 Active directory güvenliği ACTİVE DİRECTORY lOGLAMA 
 aCTİVE DİRECTORY FİZİKSEL YAPISI 
 03.03
+Docker eğtimi aldık
 Winwows saldırı teknikleri 
 Öncelikle bir saldırı nasıl yapılır? Bu saldırlar nedir?Bu saldırılara karşı alınann önlemler(sıkılaştırmalar )nedir?
 Sürekli Karşımıza çıkabilecek Saldırırlar
@@ -48,3 +49,6 @@ Windows Politika Prosedür ve Süreç İyileştirmeleri
 İLERİ SEVİYE GÜVENLİK GEREKTİREN ALANLAR
 Güvenlik Duvarı (Firewall) ve loglama 
 Güvenlik Duvarı Kuralları ve Sıkılaştırma İşlemleri
+07.03
+Loglama ve Monitoring 
+Windows Event Viewer(Olay Görüntüleyicisi)
