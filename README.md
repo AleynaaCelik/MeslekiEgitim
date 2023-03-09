@@ -60,3 +60,25 @@ Small Home Network ,Small Office and home Office(soho) network ,medium to large 
 Online bağlantılar  konusu çalışıldı
 NFC,network interface card(nıc) ,Meda Access control (mac) address ,manual Ip configuration : dynamic ıp configiration : Dynamic Host configiration protocol (dhcp) : ve topoloji kavamları öğrenildi
 Bir switch seçerken en önemli 3 kriterın ne olduğunu (peformans ,yönetilebilirlik.güvenlik)olduğunu öğrendm Switchlerin artık 3.katmanda da çaıştığını burada da cpu ya ihtiyaç duyduğunu öğrendim.Support kavramını bu switche üretici firmanın kaç yıl desteği var ürün kalitesinin de önemli bir etken olduğunu öğrendim.
+Copper cable
+coaxial cable
+fiber-optical cable
+twisted-pair cable
+UTP cable
+STP cable
+UTP cable category 
+RJ-11 connector
+RJ-45 connector
+twisted-pair wring scheme
+TIA-EIA
+T568A
+T568B
+straight-through cable
+patch cable
+crossover cable
+like devices
+unlike devices
+ping utility
+traceroute utility
+tracert command
+ terimleri  öğrnildi 
