@@ -52,3 +52,7 @@ Güvenlik Duvarı Kuralları ve Sıkılaştırma İşlemleri
 07.03
 Loglama ve Monitoring 
 Windows Event Viewer(Olay Görüntüleyicisi)
+08.03
+Ağ türleri
+Online bağlantılar
+Small Home Network ,Small Office and home Office(soho) network ,medium to large network: RFID tag  ,observed data : ,peer-to-peer(p2p)network ,application kavramalrı öğrenildi
