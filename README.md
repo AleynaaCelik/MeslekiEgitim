@@ -82,3 +82,17 @@ ping utility
 traceroute utility
 tracert command
  terimleri  öğrnildi 
+ Message Format
+Message Size
+Timing
+Encoding
+Encapsulation
+Message pattern
+Standards
+Standards Organizations
+TCP/IP Model
+http
+TCP
+Ethernet
+Mac address
+öğrenildi
