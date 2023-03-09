@@ -56,3 +56,7 @@ Windows Event Viewer(Olay Görüntüleyicisi)
 Ağ türleri
 Online bağlantılar
 Small Home Network ,Small Office and home Office(soho) network ,medium to large network: RFID tag  ,observed data : ,peer-to-peer(p2p)network ,application kavramalrı öğrenildi
+09.03
+Online bağlantılar  konusu çalışıldı
+NFC,network interface card(nıc) ,Meda Access control (mac) address ,manual Ip configuration : dynamic ıp configiration : Dynamic Host configiration protocol (dhcp) : ve topoloji kavamları öğrenildi
+Bir switch seçerken en önemli 3 kriterın ne olduğunu (peformans ,yönetilebilirlik.güvenlik)olduğunu öğrendm Switchlerin artık 3.katmanda da çaıştığını burada da cpu ya ihtiyaç duyduğunu öğrendim.Support kavramını bu switche üretici firmanın kaç yıl desteği var ürün kalitesinin de önemli bir etken olduğunu öğrendim.
