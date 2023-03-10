@@ -96,3 +96,6 @@ TCP
 Ethernet
 Mac address
 öğrenildi
+10.03 
+Sql server eğitmi alındı gerçek bir veri tabanı obs deki veri tabanı arkasındaki işleyişten bahsedildi örnek sorgulamalarla bu konu daha iyi alaşıldı.
+response time hommerdb kavraamları öğreinldi.
