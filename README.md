@@ -100,3 +100,6 @@ Mac address
 Sql server eğitmi alındı gerçek bir veri tabanı obs deki veri tabanı arkasındaki işleyişten bahsedildi örnek sorgulamalarla bu konu daha iyi alaşıldı.
 response time hommerdb kavraamları öğreinldi.
 broadcast *a[a tasarimi ve er';'m' hakkinda b'lg' ed'n'ld'
+13.03
+Sanallaştırma ortamları bunların farkları avantaj ve dezavantajları 
+HYPER-V KURULUMU ne işe yaradığı
