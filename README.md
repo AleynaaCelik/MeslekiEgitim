@@ -103,3 +103,5 @@ broadcast *a[a tasarimi ve er';'m' hakkinda b'lg' ed'n'ld'
 13.03
 Sanallaştırma ortamları bunların farkları avantaj ve dezavantajları 
 HYPER-V KURULUMU ne işe yaradığı
+Sanal Ethernet Kartı kurulumu (External,İnternal,private) oluşturma
+Sanal Makine kurma server 2019 kurma
