@@ -105,3 +105,8 @@ Sanallaştırma ortamları bunların farkları avantaj ve dezavantajları
 HYPER-V KURULUMU ne işe yaradığı
 Sanal Ethernet Kartı kurulumu (External,İnternal,private) oluşturma
 Sanal Makine kurma server 2019 kurma
+14.03
+Dün ethernet kartı oluştururken yaşadoğım wireless sorunuunu cmd ekranında çözdüm
+Sanal makine server 2019 kurulumu 
+Sabit dik oluşturma
+Sanal  makina ayarlama
