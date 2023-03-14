@@ -110,3 +110,5 @@ Dün ethernet kartı oluştururken yaşadoğım wireless sorunuunu cmd ekranınd
 Sanal makine server 2019 kurulumu 
 Sabit dik oluşturma
 Sanal  makina ayarlama
+Sanal Makina kurulumu Virtualbox içine ubuntu kurma 
+Putty nedir kuurlumu 
