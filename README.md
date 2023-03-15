@@ -162,3 +162,5 @@ Yapılandırma dosyasındaki değişiklikleri kaydedin ve MySQL sunucusunu yenid
 sudo service mysql restart
 
 Son olarak, MySQL istemcisini kullanarak, MySQL sunucusuna uzaktan erişebilirsiniz. Ancak, bu yöntemle dışarı açtığınız MySQL sunucusuna erişmek, güvenlik riskleri taşıdığı için dikkatli olunmalı ve gerekli önlemler alınmalıdır.
+MYSQL Dışarı çıkma nasıl olur sebepleri nelerir?
+mvc server arcitecture 
