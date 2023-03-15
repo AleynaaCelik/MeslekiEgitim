@@ -145,3 +145,20 @@ mysql -u root -p
 
 Bu şekilde MySQL'i Ubuntu üzerinde başarıyla kurabilirsiniz.
 mysql sunucunu dışarı açma
+MySQL sunucusunu dışarı açmak istediğiniz cihazda bir güvenlik duvarı (firewall) varsa, MySQL'in port numarasını (varsayılan olarak 3306) açmanız gerekebilir. Bu port numarasını güvenlik duvarında açmak için uygun yönergeleri takip edin.
+
+MySQL sunucusunun dışarı açık olması, genellikle iki senaryoda kullanışlıdır:
+
+a. Uzak bir sunucudan MySQL veritabanına erişmek için
+
+b. MySQL sunucusunu web sunucusu olarak kullanmak
+
+Eğer MySQL sunucusunu web sunucusu olarak kullanmak istiyorsanız, PHP veya Python gibi web uygulama dillerinden birini kullanarak MySQL sunucusuna bağlanabilirsiniz.
+
+MySQL sunucusunu dışarı açmak için, MySQL yapılandırma dosyasını (/etc/mysql/mysql.conf.d/mysqld.cnf) açın ve bind-address ayarını sunucunuzun IP adresine veya tüm arabirimlere (0.0.0.0) ayarlayın. Bu, MySQL sunucusunun yerel ağınızın dışındaki istekleri dinlemesine izin verecektir.
+
+Yapılandırma dosyasındaki değişiklikleri kaydedin ve MySQL sunucusunu yeniden başlatın:
+
+sudo service mysql restart
+
+Son olarak, MySQL istemcisini kullanarak, MySQL sunucusuna uzaktan erişebilirsiniz. Ancak, bu yöntemle dışarı açtığınız MySQL sunucusuna erişmek, güvenlik riskleri taşıdığı için dikkatli olunmalı ve gerekli önlemler alınmalıdır.
