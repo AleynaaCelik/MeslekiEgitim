@@ -112,3 +112,36 @@ Sabit dik oluşturma
 Sanal  makina ayarlama
 Sanal Makina kurulumu Virtualbox içine ubuntu kurma 
 Putty nedir kuurlumu 
+15.03
+MySQL, Ubuntu'da kolayca kurulabilen bir yazılımdır. Aşağıdaki adımları takip ederek MySQL'i Ubuntu'ya kurabilirsiniz:
+
+Terminali açın.
+
+Aşağıdaki komutu girerek MySQL'in son sürümünü kurun:
+
+sudo apt-get update
+
+sudo apt-get install mysql-server
+
+Kurulum sırasında size bir şifre sorulacaktır. Bu şifre, MySQL veritabanına erişmek için kullanacağınız şifredir. Bir şifre belirleyin ve not edin.
+
+Kurulum tamamlandıktan sonra, MySQL servisini başlatmak için aşağıdaki komutu girin:
+
+sudo systemctl start mysql
+
+MySQL servisini başlangıçta otomatik olarak başlatmak için aşağıdaki komutu girin:
+
+sudo systemctl enable mysql
+
+MySQL'e erişmek için, aşağıdaki komutu kullanarak MySQL istemcisini kurun:
+
+sudo apt-get install mysql-client
+
+MySQL istemcisini açmak için aşağıdaki komutu girin:
+
+mysql -u root -p
+
+Şifrenizi girin ve Enter tuşuna basın. Artık MySQL veritabanına bağlandınız ve kullanmaya hazırsınız.
+
+Bu şekilde MySQL'i Ubuntu üzerinde başarıyla kurabilirsiniz.
+mysql sunucunu dışarı açma
