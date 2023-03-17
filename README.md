@@ -164,3 +164,11 @@ sudo service mysql restart
 Son olarak, MySQL istemcisini kullanarak, MySQL sunucusuna uzaktan erişebilirsiniz. Ancak, bu yöntemle dışarı açtığınız MySQL sunucusuna erişmek, güvenlik riskleri taşıdığı için dikkatli olunmalı ve gerekli önlemler alınmalıdır.
 MYSQL Dışarı çıkma nasıl olur sebepleri nelerir?
 mvc server arcitecture 
+16.03
+6 makkinanın 3 üne Proxmox 3 üne Ubuntu Server kurarak Ceph İle testlerinin sağlanması
+17.03
+Bilimsel Araştırma Yöntemleri
+Gözlemler ,araştırmalar,ü
+SPSS 
+Veri analiz Programı,Yapay zeka için Makine öğremesi için kullanıır.
+Korelasyon,regresyon T-testi Sig değeri Fatih hocamızdan eğititim alındı
