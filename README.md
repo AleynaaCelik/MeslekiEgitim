@@ -172,3 +172,9 @@ Gözlemler ,araştırmalar,ü
 SPSS 
 Veri analiz Programı,Yapay zeka için Makine öğremesi için kullanıır.
 Korelasyon,regresyon T-testi Sig değeri Fatih hocamızdan eğititim alındı
+Rj45 konnektörü çakma 
+Petch panolar 
+veri merkezi gezisi
+sistem odası dağııtm odası 
+20.03
+Ovirt kuurlumu
