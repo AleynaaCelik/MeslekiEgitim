@@ -178,3 +178,7 @@ veri merkezi gezisi
 sistem odası dağııtm odası 
 20.03
 Ovirt kuurlumu
+21.03
+Ovirt kurulumunda önce centos işletim sisteminde deneme fakat donanımsal yetersizlikten dolayı performans testi ölçememe
+22.03
+Bilcik endüstri meslek lisesi bilişim öğrencilerine veri merkezi ve bilgi işlem gezisi soru cevap ve seminer yapıldı
