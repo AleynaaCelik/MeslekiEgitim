@@ -182,3 +182,5 @@ Ovirt kuurlumu
 Ovirt kurulumunda önce centos işletim sisteminde deneme fakat donanımsal yetersizlikten dolayı performans testi ölçememe
 22.03
 Bilcik endüstri meslek lisesi bilişim öğrencilerine veri merkezi ve bilgi işlem gezisi soru cevap ve seminer yapıldı
+23.03
+Kali linux eğitimi temel linux komutları öğrenildi
