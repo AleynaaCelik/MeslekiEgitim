@@ -184,3 +184,5 @@ Ovirt kurulumunda önce centos işletim sisteminde deneme fakat donanımsal yete
 Bilcik endüstri meslek lisesi bilişim öğrencilerine veri merkezi ve bilgi işlem gezisi soru cevap ve seminer yapıldı
 23.03
 Kali linux eğitimi temel linux komutları öğrenildi
+24.03
+cd,ls,sp,wdget ,head,tail,sudo,pwd,mdir,rmdir,touch,cat ,rm komutlar öğrenilip pratik yapıldı
