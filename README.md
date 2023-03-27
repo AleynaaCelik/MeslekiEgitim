@@ -192,4 +192,4 @@ head tail komutu
 man ve help komutu
 top ve ps komutu
 wget ile exploit indirip açma çalışmaları
-git clone komutu 
+git clone komutu (dosya indirme işlemleri)
