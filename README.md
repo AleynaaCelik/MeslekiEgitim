@@ -195,3 +195,4 @@ wget ile exploit indirip açma çalışmaları
 git clone komutu (dosya indirme işlemleri)
 Linux dosya sistemi( bin,boot,dev,lib,media,mnt,opt,sbin,tmp,usr,var,proc,home,etc)
 Linuxta kullanıcı oluşturma ve slme (useradd,delluser)
+Linuxta yetki işlmei (r,w,x) 7
