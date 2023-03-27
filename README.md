@@ -193,3 +193,4 @@ man ve help komutu
 top ve ps komutu
 wget ile exploit indirip açma çalışmaları
 git clone komutu (dosya indirme işlemleri)
+Linux dosya sistemi( bin,boot,dev,lib,media,mnt,opt,sbin,tmp,usr,var,proc,home,etc)
