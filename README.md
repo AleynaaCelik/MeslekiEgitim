@@ -186,3 +186,10 @@ Bilcik endüstri meslek lisesi bilişim öğrencilerine veri merkezi ve bilgi i�
 Kali linux eğitimi temel linux komutları öğrenildi
 24.03
 cd,ls,sp,wdget ,head,tail,sudo,pwd,mdir,rmdir,touch,cat ,rm komutlar öğrenilip pratik yapıldı
+27.03
+Cat ile grep komutu kullanımı
+head tail komutu
+man ve help komutu
+top ve ps komutu
+wget ile exploit indirip açma çalışmaları
+git clone komutu 
