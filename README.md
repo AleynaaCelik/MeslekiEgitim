@@ -201,3 +201,14 @@ Linuxta yetki işlmei (r,w,x) 7
 Arkadaşınmza kablosuz ağ için bir IP adresi verildi ve Netdisco'ya bağlanabilmesi için gerekli yetkiler verildi. Bu sayede arkadaşınız ağa bağlanarak, ağdaki diğer cihazlara erişebilir ve ağ yönetimi işlemlerini gerçekleştirebilir. Ayrıca, Netdisco üzerinden ağda bağlı olan cihazların durumunu izleyebilir ve sorunları tespit edebilir. Bu da ağ yönetimi için önemli bir araçtır ve ağın daha güvenli ve verimli bir şekilde kullanılmasını sağlar.
 puttyden  tomer ıp si ile telnet ile login olup  bağlandık switche .
 show interface breef ile çalışan portların durumunu görüntüledik.
+taggedli switcherlden her vlan geçmeli uplink vlanlarım
+spesifik son kullanıcı vlanlarım ise untagged olmalı 
+dhcp snopping vlan x dhcp ile çıkabilsin sadece
+sh lldp r bu switchkler nereden geliyo ne yapıyor komşuluk 
+switchin port sayısında uplink port sayısının sayımadığı 
+valan oluşturup silme 
+mode trunk tagged demek dellde trun allowed vlan diyerek vlan ekliyorum 
+mode general untagged 
+islami ilimler fakültinin değişmesi sebebiyle switch konfigürasyonu yapıldı
+seri portla COM switche bağlanma öğrenildi
+Junipper switch yapısı öğrenlidi
