@@ -196,3 +196,5 @@ git clone komutu (dosya indirme işlemleri)
 Linux dosya sistemi( bin,boot,dev,lib,media,mnt,opt,sbin,tmp,usr,var,proc,home,etc)
 Linuxta kullanıcı oluşturma ve slme (useradd,delluser)
 Linuxta yetki işlmei (r,w,x) 7
+28.03
+Üniversitemiz ağındaki her kullanıcının bir portu var ve her switch'in her portunda bir MAC adresi bulunuyor. Üniversite personeli, anahtar VLAN dağılımını Netdisco aracılığıyla izleyerek, sorgular kullanarak kişisel bilgisayarlarını kullanan ve IP telefonları kullanmayan hocalarının bir listesini oluşturdular. Bu sayede, ağ kullanımını takip ederek, her bir kullanıcının hangi portta bağlı olduğunu ve kimlik bilgilerini izleyebildiler. Bu yöntem sayesinde ağ yönetimi daha güvenli ve verimli hale geldi.
