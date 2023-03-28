@@ -199,3 +199,5 @@ Linuxta yetki işlmei (r,w,x) 7
 28.03
 Üniversitemiz ağındaki her kullanıcının bir portu var ve her switch'in her portunda bir MAC adresi bulunuyor. Üniversite personeli, anahtar VLAN dağılımını Netdisco aracılığıyla izleyerek, sorgular kullanarak kişisel bilgisayarlarını kullanan ve IP telefonları kullanmayan hocalarının bir listesini oluşturdular. Bu sayede, ağ kullanımını takip ederek, her bir kullanıcının hangi portta bağlı olduğunu ve kimlik bilgilerini izleyebildiler. Bu yöntem sayesinde ağ yönetimi daha güvenli ve verimli hale geldi.
 Arkadaşınmza kablosuz ağ için bir IP adresi verildi ve Netdisco'ya bağlanabilmesi için gerekli yetkiler verildi. Bu sayede arkadaşınız ağa bağlanarak, ağdaki diğer cihazlara erişebilir ve ağ yönetimi işlemlerini gerçekleştirebilir. Ayrıca, Netdisco üzerinden ağda bağlı olan cihazların durumunu izleyebilir ve sorunları tespit edebilir. Bu da ağ yönetimi için önemli bir araçtır ve ağın daha güvenli ve verimli bir şekilde kullanılmasını sağlar.
+puttyden  tomer ıp si ile telnet ile login olup  bağlandık switche .
+show interface breef ile çalışan portların durumunu görüntüledik.
