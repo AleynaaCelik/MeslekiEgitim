@@ -220,3 +220,4 @@ mtu değeri değiştirme
 mac adresi değiştirme
 echo komutu kullanımı > ve >> kullanımı
 md5sum hashleme 
+echo ve base64 encode decode edilme işlemleri öğrenildi
