@@ -212,3 +212,7 @@ mode general untagged
 islami ilimler fakültinin değişmesi sebebiyle switch konfigürasyonu yapıldı
 seri portla COM switche bağlanma öğrenildi
 Junipper switch yapısı öğrenlidi
+29.03
+linuxta dosya sıkıştırma ve açma işlemleri öğrenildi
+tcp udp bağlantı durumların kontrol etme bu durumların ne anama geldiği öğrenilid
+ıp adresi netmask ve broadcast değiştirme öğrenildi
