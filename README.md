@@ -219,3 +219,4 @@ tcp udp bağlantı durumların kontrol etme bu durumların ne anama geldiği ö�
 mtu değeri değiştirme
 mac adresi değiştirme
 echo komutu kullanımı > ve >> kullanımı
+md5sum hashleme 
