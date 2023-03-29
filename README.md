@@ -216,3 +216,4 @@ Junipper switch yapısı öğrenlidi
 linuxta dosya sıkıştırma ve açma işlemleri öğrenildi
 tcp udp bağlantı durumların kontrol etme bu durumların ne anama geldiği öğrenilid
 ıp adresi netmask ve broadcast değiştirme öğrenildi
+mtu değeri değiştirme
