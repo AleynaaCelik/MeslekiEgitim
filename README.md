@@ -218,3 +218,4 @@ tcp udp bağlantı durumların kontrol etme bu durumların ne anama geldiği ö�
 ıp adresi netmask ve broadcast değiştirme öğrenildi
 mtu değeri değiştirme
 mac adresi değiştirme
+echo komutu kullanımı > ve >> kullanımı
