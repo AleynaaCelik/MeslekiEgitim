@@ -238,3 +238,6 @@ UPS güç kaynağı: Sistem odaları, kesintisiz güç kaynağına (UPS) sahip o
 İyi bir kablo yönetimi: Sistem odalarındaki kablolar düzenli ve iyi yönetilmelidir. Kablolama düzenli olmalı ve duvara sabitlenmiş kablo kanalları veya kablo yönetim sistemleri kullanılmalıdır.
 
 Yangın önleme: Sistem odalarında yangın önleme önlemleri alınmalıdır. Yangın alarm sistemleri ve yangın söndürme ekipmanları mevcut olmalıdır.
+Sistem odaları genelde 45 katlı binalarda orta katta çok katlı binalarda ise bi kaç tane olur.
+kabloların uzunluğu 90-100 metreyi geçilmemesi gerekir
+
