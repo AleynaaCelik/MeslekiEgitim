@@ -227,3 +227,14 @@ Hp  switch konfigürasyonu BBLOK KAMERA
 Geleceği yazanlar linux 101 sertifikası alındı
 Bir switch konfigürasyonunda donanım olarak en azından bir adet switch cihazı gereklidir. Ayrıca, ağdaki diğer cihazlara bağlanmak için uygun sayıda portu olmalıdır. İhtiyaçlara göre farklı hızlarda bağlantı destekleyen portlar da gerekebilir. Ayrıca, yönetilebilir özellikleri olan bir switch kullanılıyorsa, donanımsal olarak yönetim arabirimi için bir konsol portu veya ağ üzerinden erişim için bir yönetim portu da gereklidir.
 Bir switch konfigürasyonunda uygun kabloların kullanılması önemlidir. Genellikle Ethernet kablosu (CAT5, CAT5e, CAT6 veya CAT7) kullanılır. Ayrıca, switch'in bağlanacağı cihazların da doğru bağlantı noktalarına uygun kablolarla bağlanması gerekir.
+Sistem odaları genellikle veri merkezleri kadar büyük olmayan, daha küçük ölçekli işletmeler veya kuruluşlar için tasarlanmıştır. Sistem odaları için şu özellikler gereklidir:
+
+Güvenli bir ortam: Sistem odaları, yetkisiz erişimden korunmalıdır. Kapılar kilitleyebilmeli ve erişim kontrol sistemleriyle donatılmalıdır.
+
+Yeterli soğutma: Sistem odalarındaki cihazlar, çalışırken ısınır. Bu nedenle, sistem odalarında yeterli soğutma sağlanmalıdır. Klima sistemleri ve fanlar sıcaklığı düşürmek için kullanılabilir.
+
+UPS güç kaynağı: Sistem odaları, kesintisiz güç kaynağına (UPS) sahip olmalıdır. Bu, cihazların güç kesintilerinden etkilenmeden çalışmalarını sağlar.
+
+İyi bir kablo yönetimi: Sistem odalarındaki kablolar düzenli ve iyi yönetilmelidir. Kablolama düzenli olmalı ve duvara sabitlenmiş kablo kanalları veya kablo yönetim sistemleri kullanılmalıdır.
+
+Yangın önleme: Sistem odalarında yangın önleme önlemleri alınmalıdır. Yangın alarm sistemleri ve yangın söndürme ekipmanları mevcut olmalıdır.
