@@ -224,3 +224,4 @@ echo ve base64 encode decode edilme işlemleri öğrenildi
 Final test sınavına girlip başarılı olundu
 30.03
 Hp  switch konfigürasyonu BBLOK KAMERA
+Geleceği yazanlar linux 101 sertifikası alındı
