@@ -226,3 +226,4 @@ Final test sınavına girlip başarılı olundu
 Hp  switch konfigürasyonu BBLOK KAMERA
 Geleceği yazanlar linux 101 sertifikası alındı
 Bir switch konfigürasyonunda donanım olarak en azından bir adet switch cihazı gereklidir. Ayrıca, ağdaki diğer cihazlara bağlanmak için uygun sayıda portu olmalıdır. İhtiyaçlara göre farklı hızlarda bağlantı destekleyen portlar da gerekebilir. Ayrıca, yönetilebilir özellikleri olan bir switch kullanılıyorsa, donanımsal olarak yönetim arabirimi için bir konsol portu veya ağ üzerinden erişim için bir yönetim portu da gereklidir.
+Bir switch konfigürasyonunda uygun kabloların kullanılması önemlidir. Genellikle Ethernet kablosu (CAT5, CAT5e, CAT6 veya CAT7) kullanılır. Ayrıca, switch'in bağlanacağı cihazların da doğru bağlantı noktalarına uygun kablolarla bağlanması gerekir.
