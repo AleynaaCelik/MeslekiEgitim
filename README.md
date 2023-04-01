@@ -241,3 +241,5 @@ Yangın önleme: Sistem odalarında yangın önleme önlemleri alınmalıdır. Y
 Sistem odaları genelde 45 katlı binalarda orta katta çok katlı binalarda ise bi kaç tane olur.
 kabloların uzunluğu 90-100 metreyi geçilmemesi gerekir
 
+31.03
+Musa TURKAN hocadan OOP temelleri dersi verildi ders kaydedildi
