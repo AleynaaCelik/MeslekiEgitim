@@ -246,3 +246,4 @@ Musa TURKAN hocadan OOP temelleri dersi verildi ders kaydedildi
 03.04
 A,b e BLOKLAR için hybrid sistemiçinswitchler konfigre edilip Bloklarda sistem odalarına takılıp testleri sağlandı.
 E blok switchi dell poe olduğu için biz de bu switchi sadece uplink için kullandığımız için yerine rujie switch konfigre edildi .
+metro switch kavramı öğrenildi
