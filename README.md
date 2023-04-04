@@ -249,3 +249,6 @@ E blok switchi dell poe olduğu için biz de bu switchi sadece uplink için kull
 metro switch kavramı öğrenildi
 transiver (sps) kavramı öğrenilidi
 metro switchin trancieveri otomatik olabileceği(!,10,100m gb desteklediğini öğrendim)
+04.04
+F blok switchi dell poe olduğu için biz de bu switchi sadece uplink için kullandığımız için yerine rujie switch konfigre edildi .
+E blok ip telefon sorunu çözüldü duvar portun alınıp sistem odasından düzeltildi
