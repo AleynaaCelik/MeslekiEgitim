@@ -280,3 +280,56 @@ HTTP  Methodlarından Bazıları
 9-)PATCH: Bu metod bir kaynağa istediğiniz küçük çaplı değişimi yapmanızı sağlar.
 
 10-)SEARCH: Bir dizinin altındaki kaynakları sorgulamak için kullanılır.
+
+
+ Linux Bazı Terminal Komutları
+
+ls > Bulunulan dizindeki dosya ve dizinleri listeler.
+
+dir > Klasörün içeriğini görüntülemek için kullanılır.
+
+cd > Dizinler arasında geçişi sağlar.
+
+man > Belirtilen komutun kullanım kılavuzunu verir.
+
+mkdir > Dizin yaratmayı sağlar.
+
+mv > Dosya ya da dizinleri taşımak için kullanılır.
+
+cp > Dosya ya da dizin kopyalama işlemini gerçekleştirir.
+
+rm > Dosya ya da dizin silmek için kullanılır.
+
+cat > Dosyanın içeriğini görüntülemek için kullanılır.
+
+clear >Terminal ekranını temizler.
+
+cmp > İki dosyayı karşılaştırır ve farklılıkları listeler.
+
+find > Dosya ya da dizin arama işlemlerini gerçekleştirir.
+
+ps > Çalışan uygulamaları ve uygulama numaralarını (PID) görüntüler.
+
+kill > PID’si ile belirtilen uygulamayı sonlandırır.
+
+su > Komut satırında kullanıcı değiştirmeyi sağlar. Eğer kullanıcı girilmez ise root kullanıcısı olmaya çalışır.
+
+telnet ve ssh > Ağ ortamlarında digger linux sistemlerine bağlanmayı sağlar. Telnet verileri şifrelemeden gönderir ssh ise verileri şifreli gönderir.
+
+who > Sisteme bağlı olan kullanıcıları listeler.
+
+which > Komutların ve ilgili dosyaların bulundukları konumu listeler.
+
+startx > Desktop uygulamasını başlatır.
+
+reboot > Sistemi tekrar başlatır.
+
+shutdown > Sistemi kapatır.
+
+passwd > Kullanıcı şifresini değiştirmek için
+
+tar > Dosyaları sıkıştımak için kullanılır.
+
+Unzip > Sıkıştırılmış dosyaları açmak için kullanılır.
+
+date > Sistem saatini ve tarihini görüntüler.
