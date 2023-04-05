@@ -333,3 +333,4 @@ tar > Dosyaları sıkıştımak için kullanılır.
 Unzip > Sıkıştırılmış dosyaları açmak için kullanılır.
 
 date > Sistem saatini ve tarihini görüntüler.
+Siber  saldırı yaşam modeli ve adımları öğrenildi
