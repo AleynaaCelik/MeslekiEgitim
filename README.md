@@ -256,3 +256,4 @@ Cisco 2950 switch denemek amaçlı temel bakımları yapılıp açıldı
 05.04
 osı modeli tekrarı
 hash  algoritmaları (simetrik asimetrik algoritmalar)
+ıp sınıfları subnet mask gateway tekrar edildi
