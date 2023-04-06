@@ -336,3 +336,4 @@ date > Sistem saatini ve tarihini görüntüler.
 Siber  saldırı yaşam modeli ve adımları öğrenildi
 06.04.2023
 karma algoritma kavramı ndir nerelerde kullanılır çeşitleri
+sha256 vs aes 256 algoritmaları farkları
