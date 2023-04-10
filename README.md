@@ -340,3 +340,5 @@ sha256 vs aes 256 algoritmaları farkları
 VoIP kavramı gili dinlemeye karşı korumak için Şifreli sesli mesaj kullanıldığı
 07.04
 Yusuf MUŞTU hocamızda mobil eğitim flutter eğitimii
+10.04.
+HBBLOK için hybrit switch konfigüre edildi
