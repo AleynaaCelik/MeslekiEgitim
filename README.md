@@ -343,3 +343,4 @@ Yusuf MUŞTU hocamızda mobil eğitim flutter eğitimii
 10.04.
 HBBLOK için hybrit switch konfigüre edildi
 Güncel sunucu işlemci türleri öğrenildi
+Rektörlük Omurga switch değişimi yapııldı
