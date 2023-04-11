@@ -343,4 +343,9 @@ Yusuf MUŞTU hocamızda mobil eğitim flutter eğitimii
 10.04.
 HBBLOK için hybrit switch konfigüre edildi
 Güncel sunucu işlemci türleri öğrenildi
-Rektörlük Omurga switch değişimi yapııldı
+Rektörlük Omurga switch değişimi yapııldı Hp 2610 1-25 untagged 26 tagged olarak ayarlandı.
+11.04
+Güncel sunucu işlemci türleri 
+Intel Xeon: Bu, sunucu işlemcileri için popüler bir markadır ve genellikle yüksek performans ve güvenilirlik sunar. Şu anda en yeni Xeon işlemcileri, Ice Lake ve Sapphire Rapids aileleridir.
+AMD EPYC: AMD'nin sunucu işlemcileri de yüksek performans ve güvenilirlik sunar. Şu anda en yeni EPYC işlemcileri, Milan ailesidir.
+IBM Power: IBM Power işlemcileri, özellikle büyük işletmeler ve kurumsal veri merkezleri için tasarlanmıştır. IBM Power10, şu anda en yeni işlemcidir.
