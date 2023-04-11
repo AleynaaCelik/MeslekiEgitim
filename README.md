@@ -357,3 +357,10 @@ Seagate IronWolf 125 SSD: 16 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boy
 Kingston DC1000M: 7.68 TB kapasiteye sahip, NVMe arayüzü ve U.2 form faktörüyle sunuluyor.
 Toshiba PM5: 16 TB kapasiteye sahip, SAS arayüzü ve 2.5 inç boyutuyla sunuluyor.
 Bu SSD'ler endüstriyel ve veri merkezi uygulamaları için tasarlanmışlardır ve yüksek kapasiteleri nedeniyle oldukça pahalıdırlar. Ancak, normal kullanıcılar için daha uygun fiyatlı ve yüksek kapasiteli SSD'ler de mevcuttur.
+
+Samsung 870 QVO: 8 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boyutuyla sunuluyor.
+Crucial MX500: 4 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boyutuyla sunuluyor.
+WD Blue SN550: 4 TB kapasiteye sahip, NVMe arayüzü ve M.2 2280 form faktörüyle sunuluyor.
+SanDisk Extreme Pro: 2 TB kapasiteye sahip, NVMe arayüzü ve M.2 2280 form faktörüyle sunuluyor.
+Kingston KC600: 2 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boyutuyla sunuluyor.
+Bu SSD'ler, daha uygun fiyatlı yüksek kapasiteli depolama çözümleri sunan ve ev kullanıcıları için daha uygun olan modellerdir. Ancak, bu SSD'ler genellikle daha az dayanıklıdır ve daha düşük hızlara sahiptirler.
