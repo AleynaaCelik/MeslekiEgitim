@@ -349,3 +349,11 @@ Güncel sunucu işlemci türleri
 Intel Xeon: Bu, sunucu işlemcileri için popüler bir markadır ve genellikle yüksek performans ve güvenilirlik sunar. Şu anda en yeni Xeon işlemcileri, Ice Lake ve Sapphire Rapids aileleridir.
 AMD EPYC: AMD'nin sunucu işlemcileri de yüksek performans ve güvenilirlik sunar. Şu anda en yeni EPYC işlemcileri, Milan ailesidir.
 IBM Power: IBM Power işlemcileri, özellikle büyük işletmeler ve kurumsal veri merkezleri için tasarlanmıştır. IBM Power10, şu anda en yeni işlemcidir.
+
+En yüksek kapasiteli SSDler
+Samsung PM1643: 30.72 TB kapasiteye sahip, SAS arayüzü ve 2.5 inç boyutuyla sunuluyor.
+Nimbus Data ExaDrive DC100: 100 TB kapasiteye sahip, SATA arayüzü ve 3.5 inç boyutuyla sunuluyor.
+Seagate IronWolf 125 SSD: 16 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boyutuyla sunuluyor.
+Kingston DC1000M: 7.68 TB kapasiteye sahip, NVMe arayüzü ve U.2 form faktörüyle sunuluyor.
+Toshiba PM5: 16 TB kapasiteye sahip, SAS arayüzü ve 2.5 inç boyutuyla sunuluyor.
+Bu SSD'ler endüstriyel ve veri merkezi uygulamaları için tasarlanmışlardır ve yüksek kapasiteleri nedeniyle oldukça pahalıdırlar. Ancak, normal kullanıcılar için daha uygun fiyatlı ve yüksek kapasiteli SSD'ler de mevcuttur.
