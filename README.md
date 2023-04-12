@@ -364,3 +364,5 @@ WD Blue SN550: 4 TB kapasiteye sahip, NVMe arayüzü ve M.2 2280 form faktörüy
 SanDisk Extreme Pro: 2 TB kapasiteye sahip, NVMe arayüzü ve M.2 2280 form faktörüyle sunuluyor.
 Kingston KC600: 2 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boyutuyla sunuluyor.
 Bu SSD'ler, daha uygun fiyatlı yüksek kapasiteli depolama çözümleri sunan ve ev kullanıcıları için daha uygun olan modellerdir. Ancak, bu SSD'ler genellikle daha az dayanıklıdır ve daha düşük hızlara sahiptirler.
+
+Rujie 2910 poe switch Hblok kamera switchi olarak ayarlandı.
