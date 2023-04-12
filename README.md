@@ -366,3 +366,25 @@ Kingston KC600: 2 TB kapasiteye sahip, SATA arayüzü ve 2.5 inç boyutuyla sunu
 Bu SSD'ler, daha uygun fiyatlı yüksek kapasiteli depolama çözümleri sunan ve ev kullanıcıları için daha uygun olan modellerdir. Ancak, bu SSD'ler genellikle daha az dayanıklıdır ve daha düşük hızlara sahiptirler.
 
 Rujie 2910 poe switch Hblok kamera switchi olarak ayarlandı.
+12.04
+Aruba Switch 2530 switch  resetleme
+Belki hardware bazında üzerindeki reset ve clear tuşları kolayınıza gelebilir ama bu yöntemde basit :
+>>> The MGRinfo.txt file method : this file will be containing the passwords that are set for the switch.
+follow the steps :
+
+> take console .
+1.Consol kablunuzu bağlayın.
+> reboot the switch.
+2.Anahtarı yeniden başlatın.
+> keep pressing 0 till you see this =>
+3. 0 a basarak monitoring moda girin.
+> then ls/ [enter / carriage return ] look for cfa0
+4. ls komutu ile mevcut dosya ve bileşenleri listeleyin.
+> then cd cfa0 
+5. 2530 versiyonunda buna gerek kalmadı mgrinfo.txt ana dizinde vardı.
+>look for mgrinfo.txt by giving ls /
+6. cat ile açarak mevcut şifreyi görebiliyorsanız, göremezseniz ise.
+> then : rm mgrinfo.txt
+7. Mevcut dosyayı rm mgrinfo.txt ile uçurun.
+> boot
+8. boot komutu ile yeniden başlattıktan sonra artık şifre felan yok.
