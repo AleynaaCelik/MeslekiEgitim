@@ -391,3 +391,4 @@ follow the steps :
 13.04
 Çekirdek türleri ,çekirdek core hızını etkileyen faktörler öğrenildi.
 HyperThreading kavramı öğrenildi
+SSD çeşitleri öğrenildi
