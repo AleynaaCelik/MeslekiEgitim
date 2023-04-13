@@ -388,3 +388,5 @@ follow the steps :
 7. Mevcut dosyayı rm mgrinfo.txt ile uçurun.
 > boot
 8. boot komutu ile yeniden başlattıktan sonra artık şifre felan yok.
+13.04
+Çekirdek türleri ,çekirdek core hızını etkileyen faktörler öğrenildi.
