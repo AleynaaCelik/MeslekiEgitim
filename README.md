@@ -392,3 +392,5 @@ follow the steps :
 Çekirdek türleri ,çekirdek core hızını etkileyen faktörler öğrenildi.
 HyperThreading kavramı öğrenildi
 SSD çeşitleri öğrenildi
+Tranciever çeşitleri öğrenildi (SFP,SFP28,QSFP+,QSFP28)
+Fiber çeşitleri(FTTN,FTTC,FTTB,FTTH)
