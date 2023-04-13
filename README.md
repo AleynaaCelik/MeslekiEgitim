@@ -390,3 +390,4 @@ follow the steps :
 8. boot komutu ile yeniden başlattıktan sonra artık şifre felan yok.
 13.04
 Çekirdek türleri ,çekirdek core hızını etkileyen faktörler öğrenildi.
+HyperThreading kavramı öğrenildi
