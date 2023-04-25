@@ -394,3 +394,28 @@ HyperThreading kavramı öğrenildi
 SSD çeşitleri öğrenildi
 Tranciever çeşitleri öğrenildi (SFP,SFP28,QSFP+,QSFP28)
 Fiber çeşitleri(FTTN,FTTC,FTTB,FTTH)
+14.04
+17.04
+18.04
+19.04
+24.04
+https://www.slideshare.net/HuseyinCotuk/ceph-trkiye-1meetup-ankara
+https://www.slideshare.net/HuseyinCotuk/ceph-trkiye-2meetup-stanbul
+https://www.slideshare.net/HuseyinCotuk/openstackte-ceph-kullanm-ve-performans-optimizasyonu
+https://www.slideshare.net/HuseyinCotuk/ceph-trkiye-3meetup-ankara-ceph-tasarmnda-dikkat-edilecek-hususlar
+https://www.slideshare.net/HuseyinCotuk/ceph-trkiye-7-meetup-ankara-ceph-temelleri-ve-crush-map-ynetimi
+https://cloudtech.com.tr/hizmetlerimiz/#hizmetler
+http://huseyincotuk.com/2018/12/10/openstack-ile-ceph-object-storage-entegrasyonu/
+
+CEPH ve Proxmox
+·	Ceph nedir? Ne işe yarar?
+o	Ne zaman başladı? Kimler kullanıyor? Türkiye’de destek hizmeti satın alınabiliyor mu?
+o	FKM’ye alternatif olabilir mi? Hangi tür arızaları tolere edebilir?
+o	Esneklik ve ölçeklenebilirlik açısından avantajları var mı? Dikey ve yatay büyütme mümkün mü?
+o	HCI (Hyper Converged Infrastructure) ile aynı şey midir?
+o	Object storage, block storage gerçek hayatta ne amaçla kullanılır?
+o	Minio, GlusterFS gibi alternatiflerine göre farkı nedir?
+o	Openstack ile Ceph arasında ilişki var mıdır?
+o	Ceph node türleri: Storage, Monitor, Compute
+o	Canlı demo (Ceph dashboard, Proxmox dashboard, CT oluşturup web server kurulumu)
+25.04
