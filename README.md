@@ -419,3 +419,4 @@ o	Openstack ile Ceph arasında ilişki var mıdır?
 o	Ceph node türleri: Storage, Monitor, Compute
 o	Canlı demo (Ceph dashboard, Proxmox dashboard, CT oluşturup web server kurulumu)
 25.04
+ GNU/Linux sistemlere paket kurulum, kaldırma ve güncelleme işlemleri uygulamalı olarak gösterilirken, farklı örneklerle shell programlama konusu anlatılıyor. Ek olarak Özgür Yazılım kavramı ve Linux'a kattıkları, dünyadan ve Türkiye'den örnekleriyle aktarılıyor.
