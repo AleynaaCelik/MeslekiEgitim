@@ -422,3 +422,6 @@ o	Canlı demo (Ceph dashboard, Proxmox dashboard, CT oluşturup web server kurul
  GNU/Linux sistemlere paket kurulum, kaldırma ve güncelleme işlemleri uygulamalı olarak gösterilirken, farklı örneklerle shell programlama konusu anlatılıyor. Ek olarak Özgür Yazılım kavramı ve Linux'a kattıkları, dünyadan ve Türkiye'den örnekleriyle aktarılıyor.
 setxkbmap tr komutu ile terminalde kullanılamayn türkçe karakter sorununu çözdüm
 her açtığımız da terminaili bu komutu yazmazsak çalışmaz
+26.04
+Dağıtık Depolama: RAID Devrinin Sonu
+RAID teknolojisi depolama sistemlerinin yıllardır en temel yapı taşıdır. Son 30 yıldır neredeyse her türlü verinin farklı RAID yapılarında saklanabildiği görülmüştür. Ancak her devrin bir sonu olduğu gibi RAID devrinin de sonu yaklaşmaktadır. Yeni nesil depolama ihtiyaçlarını karşılamada RAID tabanlı sistemlerin yetersizlikleri görülmeye başlanmıştır.
