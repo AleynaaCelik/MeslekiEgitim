@@ -427,3 +427,5 @@ Dağıtık Depolama: RAID Devrinin Sonu
 RAID teknolojisi depolama sistemlerinin yıllardır en temel yapı taşıdır. Son 30 yıldır neredeyse her türlü verinin farklı RAID yapılarında saklanabildiği görülmüştür. Ancak her devrin bir sonu olduğu gibi RAID devrinin de sonu yaklaşmaktadır. Yeni nesil depolama ihtiyaçlarını karşılamada RAID tabanlı sistemlerin yetersizlikleri görülmeye başlanmıştır.
 Kalide python kullanımna başlama
 cidr notaion  
+27.04
+ Elimizden geldiğince kabin düzenlemesi yaptık. Ayrıca farklı lokasyonlarda bulunan eski switchleri değiştirip Vlan yapısı ile mükemmel bir sistem kuruldu 
