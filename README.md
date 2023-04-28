@@ -438,4 +438,4 @@ Rujie switchlerin en büyük avantajı  cloud yönetim sistemi var .Böylelikle 
 sfp 1 gigabit
 sfp+ 10 gigabit
 Cloud key acces point kavramı öğrenildi
-UniFi Access Pointlerin en büyük dezavantajı birbirleri üzerinden uplink olarak bağlanıp wifi sorunu oluşturmalrı 
+UniFi Access Pointlerin en büyük dezavantajı switche kablolu bağlı oldukları halde  birbirleri üzerinden uplink olarak bağlanıp wifi sorunu oluşturmalrı 
