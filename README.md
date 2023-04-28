@@ -432,3 +432,4 @@ cidr notaion
 28.04
 Zararlı yazılımlar(malware,virüs,trojan,backdoor,keylogger vs) 
 dos atakları 
+ddos,sppofing,man ın the middle atakları 
