@@ -429,3 +429,6 @@ Kalide python kullanımna başlama
 cidr notaion  
 27.04
  Elimizden geldiğince kabin düzenlemesi yaptık. Ayrıca farklı lokasyonlarda bulunan eski switchleri değiştirip Vlan yapısı ile mükemmel bir sistem kuruldu 
+28.04
+Zararlı yazılımlar(malware,virüs,trojan,backdoor,keylogger vs) 
+dos atakları 
