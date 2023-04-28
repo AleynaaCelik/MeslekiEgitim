@@ -433,3 +433,4 @@ cidr notaion
 Zararlı yazılımlar(malware,virüs,trojan,backdoor,keylogger vs) 
 dos atakları 
 ddos,sppofing,man ın the middle atakları 
+saldırı öncesi bilgi toplama(aktif bilgi,pasif bilgi)
