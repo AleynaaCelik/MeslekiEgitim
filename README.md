@@ -435,3 +435,5 @@ dos atakları
 ddos,sppofing,man ın the middle atakları 
 saldırı öncesi bilgi toplama(aktif bilgi,pasif bilgi)
 Rujie switchlerin en büyük avantajı  cloud yönetim sistemi var .Böylelikle her yerden yönetilebilirlik sağlıyo
+sfp 1 gigabit
+sfp+ 10 gigabit
