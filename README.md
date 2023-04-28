@@ -439,3 +439,4 @@ sfp 1 gigabit
 sfp+ 10 gigabit
 Cloud key(kumanda gibi içinde sd kart var ) acces point kavramı öğrenildi
 UniFi Access Pointlerin en büyük dezavantajı switche kablolu bağlı oldukları halde  birbirleri üzerinden uplink olarak bağlanıp wifi sorunu oluşturmalrı 
+Access pointler tek küçük yerlerde adsl modem gibi yönetiliyo ,yada çoklu kurumsal firmalarda bit tane contrroller oluşturuyoruz burada access pointleri tek bir controllerdan yönetiyoruz
