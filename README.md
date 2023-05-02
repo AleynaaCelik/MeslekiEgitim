@@ -442,3 +442,17 @@ UniFi Access Pointlerin en büyük dezavantajı switche kablolu bağlı olduklar
 Access pointler tek küçük yerlerde adsl modem gibi yönetiliyo ,yada çoklu kurumsal firmalarda bit tane contrroller oluşturuyoruz burada access pointleri tek bir controllerdan yönetiyoruz
 02.05
 Endpoint, bir ağ veya sistem üzerindeki bir aygıtın veya yazılımın son noktasıdır. Endpoint, bir cihazın iletişim kurduğu son noktadır ve bu noktada verilerin girişi veya çıkışı gerçekleşir. Endpointler, bir ağda kullanılan bilgisayar, telefon, tablet, yazıcı, router, switch, firewall, veya VPN gibi cihazlar olabilir. Endpointler, ağ güvenliği için kritik öneme sahiptir, çünkü siber saldırıların hedefi olabilirler ve birçok saldırı endpointlerden başlar veya bu cihazlara yöneliktir. Bu nedenle, endpoint koruması, ağ güvenliğinin önemli bir parçasıdır.
+
+Endpoint yazılımları, bir bilgisayar veya mobil cihaz gibi ağa bağlanabilen herhangi bir cihazın güvenliğini sağlamak için kullanılan yazılımlardır. Bazı örnekler şunlardır:
+
+Antivirüs yazılımı: Bilgisayarınızdaki veya mobil cihazınızdaki kötü amaçlı yazılımları tespit etmek ve temizlemek için kullanılır.
+
+Kişisel Güvenlik Duvarı: Cihazınızdaki ağ trafiğini izler ve istenmeyen trafiği engeller, bu sayede bilgisayarınızın güvenliği artar.
+
+Disk Şifreleme yazılımı: Cihazınızdaki verileri şifreleyerek, birisinin cihazınızı ele geçirdiğinde verilerinize erişmesini önler.
+
+Sanal Özel Ağ (VPN) yazılımı: İnternet bağlantınızı şifreleyerek, internet trafiğinizin izlenmesini ve gizliliğinizin korunmasını sağlar.
+
+Endpoint Yönetim Yazılımı: Bir ağ yöneticisinin ağdaki tüm cihazları yönetmesine olanak sağlayan yazılımdır. Bu yazılım, cihazların yazılım güncellemelerini, lisans durumunu, yapılandırmalarını ve güvenlik durumlarını takip etmek için kullanılabilir.
+
+Uzaktan yönetim yazılımı: Cihazların uzaktan erişilebilirliğini sağlayan yazılımlardır. Bu sayede cihazların yönetimi ve sorun giderme işlemleri uzaktan gerçekleştirilebilir.
