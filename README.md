@@ -459,3 +459,4 @@ Uzaktan yönetim yazılımı: Cihazların uzaktan erişilebilirliğini sağlayan
  Antivürüs yazılımlarda kaynak tüketimi
 
 İnternet Servis Sağlayıcısının kısaltması "ISS" veya "ISP" olarak kullanılır
+internetin firewall üzerinden sınırlandırılması işlemi hhakkında bilgi edinildi
