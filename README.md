@@ -440,3 +440,5 @@ sfp+ 10 gigabit
 Cloud key(kumanda gibi içinde sd kart var ) acces point kavramı öğrenildi
 UniFi Access Pointlerin en büyük dezavantajı switche kablolu bağlı oldukları halde  birbirleri üzerinden uplink olarak bağlanıp wifi sorunu oluşturmalrı 
 Access pointler tek küçük yerlerde adsl modem gibi yönetiliyo ,yada çoklu kurumsal firmalarda bit tane contrroller oluşturuyoruz burada access pointleri tek bir controllerdan yönetiyoruz
+02.05
+Endpoint, bir ağ veya sistem üzerindeki bir aygıtın veya yazılımın son noktasıdır. Endpoint, bir cihazın iletişim kurduğu son noktadır ve bu noktada verilerin girişi veya çıkışı gerçekleşir. Endpointler, bir ağda kullanılan bilgisayar, telefon, tablet, yazıcı, router, switch, firewall, veya VPN gibi cihazlar olabilir. Endpointler, ağ güvenliği için kritik öneme sahiptir, çünkü siber saldırıların hedefi olabilirler ve birçok saldırı endpointlerden başlar veya bu cihazlara yöneliktir. Bu nedenle, endpoint koruması, ağ güvenliğinin önemli bir parçasıdır.
