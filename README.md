@@ -456,3 +456,4 @@ Sanal Özel Ağ (VPN) yazılımı: İnternet bağlantınızı şifreleyerek, int
 Endpoint Yönetim Yazılımı: Bir ağ yöneticisinin ağdaki tüm cihazları yönetmesine olanak sağlayan yazılımdır. Bu yazılım, cihazların yazılım güncellemelerini, lisans durumunu, yapılandırmalarını ve güvenlik durumlarını takip etmek için kullanılabilir.
 
 Uzaktan yönetim yazılımı: Cihazların uzaktan erişilebilirliğini sağlayan yazılımlardır. Bu sayede cihazların yönetimi ve sorun giderme işlemleri uzaktan gerçekleştirilebilir.
+ Antivürüs yazılımlarda kaynak tüketimi
