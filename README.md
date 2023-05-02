@@ -457,3 +457,5 @@ Endpoint Yönetim Yazılımı: Bir ağ yöneticisinin ağdaki tüm cihazları y�
 
 Uzaktan yönetim yazılımı: Cihazların uzaktan erişilebilirliğini sağlayan yazılımlardır. Bu sayede cihazların yönetimi ve sorun giderme işlemleri uzaktan gerçekleştirilebilir.
  Antivürüs yazılımlarda kaynak tüketimi
+
+İnternet Servis Sağlayıcısının kısaltması "ISS" veya "ISP" olarak kullanılır
