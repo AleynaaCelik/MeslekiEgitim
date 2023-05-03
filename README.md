@@ -460,3 +460,5 @@ Uzaktan yönetim yazılımı: Cihazların uzaktan erişilebilirliğini sağlayan
 
 İnternet Servis Sağlayıcısının kısaltması "ISS" veya "ISP" olarak kullanılır
 internetin firewall üzerinden sınırlandırılması işlemi hhakkında bilgi edinildi
+03.05
+Consele kablollarının gelede bilgisayara takılam ucu RS232 DİR BU UCU USB ye çeviren dönüştürücüler kullanmak lazım
