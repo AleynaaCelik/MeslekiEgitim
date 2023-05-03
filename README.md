@@ -462,3 +462,5 @@ Uzaktan yönetim yazılımı: Cihazların uzaktan erişilebilirliğini sağlayan
 internetin firewall üzerinden sınırlandırılması işlemi hhakkında bilgi edinildi
 03.05
 Consele kablollarının gelede bilgisayara takılam ucu RS232 DİR BU UCU USB ye çeviren dönüştürücüler kullanmak lazım
+Switchh alırken nelere dikkat etmeliyiz
+1 port sayısı iş yüküne göre port sayısı ve poelik duurmu switchin tüm portları poe de olabilir yarısı da poe olabilir
