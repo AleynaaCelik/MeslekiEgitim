@@ -471,3 +471,4 @@ Omurga switch layer 3 ,kenar switchler layer 2 olursa sistem verimliliği artar
 Switchin yönetilebilir(vlan desteğinin olması gerekiyor)
 yönetilebilir olması vlanlar arası broadcast geçmez
 STP protokolünün olup olmamasına bakarız
+Thruoughput değerlerine bakarız(maksimum zamanda gözlenilen data depğeri)
