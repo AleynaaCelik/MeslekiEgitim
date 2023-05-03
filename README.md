@@ -472,3 +472,5 @@ Switchin yönetilebilir(vlan desteğinin olması gerekiyor)
 yönetilebilir olması vlanlar arası broadcast geçmez
 STP protokolünün olup olmamasına bakarız
 Thruoughput değerlerine bakarız(maksimum zamanda gözlenilen data depğeri)
+Toplam bant genişliği 
+switch kapasitesi
