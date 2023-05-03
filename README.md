@@ -464,3 +464,4 @@ internetin firewall üzerinden sınırlandırılması işlemi hhakkında bilgi e
 Consele kablollarının gelede bilgisayara takılam ucu RS232 DİR BU UCU USB ye çeviren dönüştürücüler kullanmak lazım
 Switchh alırken nelere dikkat etmeliyiz
 1 port sayısı iş yüküne göre port sayısı ve poelik duurmu switchin tüm portları poe de olabilir yarısı da poe olabilir
+Kenar switchlerdeki sfp durumu kaç   gigabit olacak
