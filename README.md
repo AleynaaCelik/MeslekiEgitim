@@ -468,3 +468,4 @@ Kenar switchlerdeki sfp durumu kaç   gigabit olacak
 port hızları normal portlar ile kenar portların hızı 
 kameralar ,ıp telefonlar ,acess poitnler poe çalışır
 Omurga switch layer 3 ,kenar switchler layer 2 olursa sistem verimliliği artar 
+Switchin yönetilebilir(vlan desteğinin olması gerekiyor)
