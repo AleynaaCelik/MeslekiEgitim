@@ -497,3 +497,13 @@ shutdown  // Portu kapatır
 show interface status  // portların durumunu görüntüle
 no shutdown // Açık
 show interface status  // portların durumunu görüntüle
+Switch Üzerinde ki Tümn Config 'i Görebilmek için;
+
+en
+conf
+
+show running-config
+
+/// BİR PORTA ÖZEL CONFIG BİLGİSİNİ GÖRMEK İÇİN
+
+show running-config interface gigabitethernet 1/0/47
