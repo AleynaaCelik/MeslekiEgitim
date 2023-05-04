@@ -474,3 +474,5 @@ STP protokolünün olup olmamasına bakarız
 Thruoughput değerlerine bakarız(maksimum zamanda gözlenilen data depğeri)
 Toplam bant genişliği 
 switch kapasitesi (switch üzerinden geçen maximum routing )
+04.05
+Kritik cihazlarda çift power olur biri bozulduğunda diğerinden devam etsin
