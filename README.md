@@ -507,3 +507,4 @@ show running-config
 /// BİR PORTA ÖZEL CONFIG BİLGİSİNİ GÖRMEK İÇİN
 
 show running-config interface gigabitethernet 1/0/47
+HBA kartı storage bağlantısı için kullanılır
