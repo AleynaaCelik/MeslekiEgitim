@@ -476,3 +476,4 @@ Toplam bant genişliği
 switch kapasitesi (switch üzerinden geçen maximum routing )
 04.05
 Kritik cihazlarda çift power olur biri bozulduğunda diğerinden devam etsin
+Backbone switch, büyük bir ağın merkezinde bulunan ve diğer switchlerin birbirleriyle bağlantısını yöneten bir ağ anahtarıdır. Genellikle yüksek bant genişliği sağlar ve ağın performansını artırır. Ayrıca, farklı kampüsler veya şubeler arasındaki bağlantıları sağlayarak geniş alan ağlarının (WAN) etkili bir şekilde yönetilmesini sağlar. Backbone switchler, ağda büyük miktarda veri trafiği taşıyan sunucular, veri depolama ve diğer kritik ağ cihazları için doğrudan bağlantı sağlayarak ağın güvenilirliğini artırabilir.
