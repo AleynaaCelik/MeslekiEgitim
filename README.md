@@ -540,3 +540,16 @@ nas,
 nvr,
 ip santral,
 Linkphone kurulumu sanal suncuya bağlanma işlemleri
+Bu, bir IP telefon sistemi olan Asterisk'te yeni bir kullanıcı genişletmesi eklemekle ilgilidir. Aşağıda, her bir genişletme türü hakkında daha fazla bilgi verilmiştir:
+
+Add New Custom Extension: Bu, özelleştirilmiş bir genişletme eklemek için kullanılır. Örneğin, belirli bir cihazı veya kullanıcı tipini hedeflemek için kullanılabilir.
+
+Add New DAHDi Extension: Bu, DAHDi genişletmeleri olarak bilinen analog telefon hatlarını kullanmak için kullanılır.
+
+Add New IAX2 Extension: Bu, Inter-Asterisk eXchange (IAX) protokolünü kullanarak VoIP (Voice over IP) bağlantıları için kullanılır.
+
+Add New SIP [chan_pjsip] Extension: Bu, Session Initiation Protocol (SIP) ile haberleşen cihazlar için kullanılır.
+
+Add New Virtual Extension: Bu, fiziksel bir telefona sahip olmayan sanal bir genişletme eklemek için kullanılır. Bu, örneğin bir IVR (Interactive Voice Response) sistemi için kullanılabilir.
+
+Asterisk, birçok güçlü özellik sunar ve bu özelliklerin hepsi farklı senaryolara ve kullanım durumlarına uygun farklı genişletme türleri sağlar. Bu genişletme türlerini doğru bir şekilde yapılandırarak, IP telefon sisteminizin performansını ve işlevselliğini artırabilirsiniz.
