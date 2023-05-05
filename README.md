@@ -539,3 +539,4 @@ storage,
 nas,
 nvr,
 ip santral,
+Linkphone kurulumu sanal suncuya bağlanma işlemleri
