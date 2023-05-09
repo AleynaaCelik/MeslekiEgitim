@@ -560,3 +560,4 @@ ESD güvenliği için antisatatik ürünlerin varlığı n tür önlmler alınab
  bir teknisyenin işinde kullanılan çeşitli araç ve ekipmanların bir koleksiyonuda neler olmalı nasıl ve ne amaçla kulalnılır öğrenildi
 power supply kavramı
 Bir anakarta cpu takma 
+Kullandığımız ıp telefonar da  ip ban yedi ve fail2ban kavramını öğrendim
