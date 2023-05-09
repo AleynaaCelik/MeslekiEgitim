@@ -556,3 +556,4 @@ Asterisk, birçok güçlü özellik sunar ve bu özelliklerin hepsi farklı sena
 08.05
 Lİnphone ip telefonlar için test yapıldı
 09.05
+ESD güvenliği için antisatatik ürünlerin varlığı n tür önlmler alınabilir öğrendim
