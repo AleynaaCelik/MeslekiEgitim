@@ -553,4 +553,6 @@ Add New SIP [chan_pjsip] Extension: Bu, Session Initiation Protocol (SIP) ile ha
 Add New Virtual Extension: Bu, fiziksel bir telefona sahip olmayan sanal bir genişletme eklemek için kullanılır. Bu, örneğin bir IVR (Interactive Voice Response) sistemi için kullanılabilir.
 
 Asterisk, birçok güçlü özellik sunar ve bu özelliklerin hepsi farklı senaryolara ve kullanım durumlarına uygun farklı genişletme türleri sağlar. Bu genişletme türlerini doğru bir şekilde yapılandırarak, IP telefon sisteminizin performansını ve işlevselliğini artırabilirsiniz.
+08.05
+Lİnphone ip telefonlar için test yapıldı
 09.05
