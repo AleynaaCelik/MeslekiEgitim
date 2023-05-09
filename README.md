@@ -561,3 +561,4 @@ ESD güvenliği için antisatatik ürünlerin varlığı n tür önlmler alınab
 power supply kavramı
 Bir anakarta cpu takma 
 Kullandığımız ıp telefonar da  ip ban yedi ve fail2ban kavramını öğrendim
+network kartına sanal makina kuracağımızza ve bunun için RISC-5 mimarisi gerekitiğini öğrendim okulumuz için bu özelliklere sahip cihaz araştırmaya başladık
