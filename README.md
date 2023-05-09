@@ -558,3 +558,4 @@ Lİnphone ip telefonlar için test yapıldı
 09.05
 ESD güvenliği için antisatatik ürünlerin varlığı n tür önlmler alınabilir öğrendim
  bir teknisyenin işinde kullanılan çeşitli araç ve ekipmanların bir koleksiyonuda neler olmalı nasıl ve ne amaçla kulalnılır öğrenildi
+power supply kavramı
