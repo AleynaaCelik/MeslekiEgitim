@@ -565,3 +565,4 @@ network kartına sanal makina kuracağımızza ve bunun için RISC-5 mimarisi ge
 10.05 
 kali de netdiscover kullanımı 
 arp ile ağ keşfi
+NAT kavramı public private ıp dönüüşmü öğrenildi
