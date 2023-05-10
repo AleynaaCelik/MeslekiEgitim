@@ -572,4 +572,4 @@ kali linuxta openvpn kullanımı indirilen dosyların çalışmaması sorunun dn
 Ağ içi bilgi toplama pratikleri YAPILDI
 ARP zehirlenmesi tekniği 
 ıp mac eşleşmesinde arp protokolünde bir güvensilik bir zaafiyet var bu zaafiyet biz soru osrmadan da cevap alabiliyoruz
-ortadaki adam hacking anlaşıldı deneme yapıldı 
+ortadaki adam hacking anlaşıldı deneme yapıldı arp poisining 
