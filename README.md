@@ -570,3 +570,4 @@ modemlerde ise internet hizmet sağlayıcısı (ısp) tarafından atanan public 
 Kali linux içeçrisinde kendi public ıp mi değiştirme vpn kkullanarak başka sunucuya bağlanma 
 kali linuxta openvpn kullanımı indirilen dosyların çalışmaması sorunun dns den olabileceğini düşünerek dns ayarlarını değiştirme
 Ağ içi bilgi toplama pratikleri YAPILDI
+ARP zehirlenmesi tekniği 
