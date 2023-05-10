@@ -562,3 +562,6 @@ power supply kavramı
 Bir anakarta cpu takma 
 Kullandığımız ıp telefonar da  ip ban yedi ve fail2ban kavramını öğrendim
 network kartına sanal makina kuracağımızza ve bunun için RISC-5 mimarisi gerekitiğini öğrendim okulumuz için bu özelliklere sahip cihaz araştırmaya başladık
+10.05 
+kali de netdiscover kullanımı 
+arp ile ağ keşfi
