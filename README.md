@@ -566,3 +566,4 @@ network kartına sanal makina kuracağımızza ve bunun için RISC-5 mimarisi ge
 kali de netdiscover kullanımı 
 arp ile ağ keşfi
 NAT kavramı public private ıp dönüüşmü öğrenildi
+modemlerde ise internet hizmet sağlayıcısı (ısp) tarafından atanan public ıpler olduğunu öğrencim .NAT client ıpsini ve modemin public ıpsini değiştirerek hedefe gönderir ve iletişim sağlanır
