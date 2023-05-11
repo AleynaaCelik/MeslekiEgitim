@@ -574,3 +574,5 @@ ARP zehirlenmesi tekniği
 ıp mac eşleşmesinde arp protokolünde bir güvensilik bir zaafiyet var bu zaafiyet biz soru osrmadan da cevap alabiliyoruz
 ortadaki adam hacking anlaşıldı deneme yapıldı arp poisining 
 ARP zehirlemesi tekniği pratik olarak gerçekleştirildi
+11.05
+BozuyukHp24Hybrid  bozyuk myo için hp 2610 switch konfigüre edildi
