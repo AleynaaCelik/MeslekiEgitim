@@ -577,3 +577,7 @@ ARP zehirlemesi tekniği pratik olarak gerçekleştirildi
 11.05
 BozuyukHp24Hybrid  bozyuk myo için hp 2610 switch konfigüre edildi
 Wireshark kullanımı ve ARP saldırısı ile birlikte çalışması
+12.05
+Juniper Ex2200 Switch Root Password ve konfigürasyon işlemi yapıldı 
+15.05
+Switche arayüzden bağlanmak için accesss point bağlantısı sağlandı bilgisayara statik ıp vermek  yerine ccess ponintin mgmt portundan ıp alındı 
