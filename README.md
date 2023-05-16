@@ -581,3 +581,20 @@ Wireshark kullanımı ve ARP saldırısı ile birlikte çalışması
 Juniper Ex2200 Switch Root Password ve konfigürasyon işlemi yapıldı 
 15.05
 Switche arayüzden bağlanmak için accesss point bağlantısı sağlandı bilgisayara statik ıp vermek  yerine ccess ponintin mgmt portundan ıp alındı 
+16.05
+
+VMware sanallaştırması, bir dizi avantaj ve olanak sunar. İşte VMware sanallaştırmasının sağladığı bazı başlıca avantajlar:
+
+Kaynak Kullanımının Optimizasyonu: VMware, fiziksel sunucuların kaynaklarını sanal sunucular arasında etkin bir şekilde paylaştırarak kaynak kullanımını optimize eder. Birden fazla sanal makineyi aynı fiziksel sunucu üzerinde çalıştırarak donanımın verimli bir şekilde kullanılmasını sağlar.
+
+Esneklik ve Ölçeklenebilirlik: VMware, sanal sunucuların dinamik olarak ölçeklendirilmesine olanak tanır. İhtiyaçlarınıza göre sanal sunucu kaynaklarını artırabilir veya azaltabilirsiniz. Böylece gereksiz donanım maliyetlerinden kaçınabilir ve iş yükünüzü kolayca yönetebilirsiniz.
+
+Yedekleme ve Kurtarma: VMware, sanal makine yedekleme ve kurtarma işlemlerini kolaylaştırır. Sanal makinelerin anlık görüntülerini alabilir, hızlı bir şekilde geri yükleyebilir ve iş sürekliliği sağlayabilirsiniz. Veri kaybı riskini azaltır ve hızlı kurtarma imkanı sunar.
+
+İzolasyon ve Güvenlik: VMware, sanal makineler arasında tam izolasyon sağlar. Her sanal makine kendi sanal işletim sistemine sahiptir ve diğer sanal makinelerden bağımsız çalışır. Bu, uygulamalar arasında çapraz etkileşimi önler ve güvenlik açısından daha güçlü bir ortam sağlar.
+
+Donanım Bağımsızlığı: VMware, sanal makineleri fiziksel donanımdan bağımsız hale getirir. Sanal makineleri farklı donanım platformlarında çalıştırabilirsiniz. Bu, donanım değişiklikleri veya yükseltmeleri durumunda esneklik sağlar ve iş sürekliliğini destekler.
+
+Uzaktan Erişim ve Dağıtım Kolaylığı: VMware, sanal makinelerin uzaktan erişimini ve dağıtımını kolaylaştırır. Sanal makineleri uzaktan yönetebilir, gerektiğinde başka bir fiziksel sunucuya taşıyabilir ve sanal sunucuları hızlı bir şekilde dağıtabilirsiniz. Bu, veri merkezi yönetimini kolaylaştırır ve IT ekiplerinin daha verimli çalışmasını sağlar.
+
+Bu avantajlar, VMware sanallaştırmasının sağladığı yararların sadece birkaç örneğidir. VMware, işletmelerin IT altyapılarını daha esnek, ölçeklenebilir, güvenli ve verimli hale getirmelerine yardımcı olur.
