@@ -598,3 +598,28 @@ Donanım Bağımsızlığı: VMware, sanal makineleri fiziksel donanımdan bağ�
 Uzaktan Erişim ve Dağıtım Kolaylığı: VMware, sanal makinelerin uzaktan erişimini ve dağıtımını kolaylaştırır. Sanal makineleri uzaktan yönetebilir, gerektiğinde başka bir fiziksel sunucuya taşıyabilir ve sanal sunucuları hızlı bir şekilde dağıtabilirsiniz. Bu, veri merkezi yönetimini kolaylaştırır ve IT ekiplerinin daha verimli çalışmasını sağlar.
 
 Bu avantajlar, VMware sanallaştırmasının sağladığı yararların sadece birkaç örneğidir. VMware, işletmelerin IT altyapılarını daha esnek, ölçeklenebilir, güvenli ve verimli hale getirmelerine yardımcı olur.
+17.05
+coraza waf nedir ubuntuya nası kurulur araştırılması yapıldı .
+ipconfig
+    2  ifconfig
+    3  apt install net-tools
+    4  ifconfig 
+    5  arp -a
+    6  ifconfig
+    7  poweroff 
+    8  cd /root/coraza-test/coraza-waf/
+    9  ls
+   10  go run /root/coraza-test/coraza-waf/examples/http-server/main.go
+   11  pico /root/coraza-test/coraza-waf/examples/http-server/main.go
+   12  pico /root/coraza-test/coraza-waf/examples/http-server/default.conf 
+   13  ls /root/coraza-test/coraza-waf/examples/http-server/default.conf 
+   14  go run /root/coraza-test/coraza-waf/examples/http-server/main_test.go 
+   15  go run /root/coraza-test/coraza-waf/examples/http-server/main.go 
+   16  pico /root/coraza-test/coraza-waf/examples/http-server/default.conf 
+   17  go build /root/coraza-test/coraza-waf/examples/http-server/main.go 
+   18  ls /root/coraza-test/coraza-waf/examples/http-server/default.conf 
+   19  ls /root/coraza-test/coraza-waf/examples/http-server/*
+   20  go run /root/coraza-test/coraza-waf/examples/http-server/main.go 
+   21  ls /root/coraza-test/coraza-waf/examples/http-server/*
+   22  pico README.md
+komutlar denendi fakat versiyon kısmında geliştirmeler olduğundan yükleme başarısız oldu 
