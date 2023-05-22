@@ -623,3 +623,8 @@ ipconfig
    21  ls /root/coraza-test/coraza-waf/examples/http-server/*
    22  pico README.md
 komutlar denendi fakat versiyon kısmında geliştirmeler olduğundan yükleme başarısız oldu 
+18.09 
+Docker desktop wsl bağlantısı öğrenildi
+22.05
+internet hizmet altyapısı öğrenildi
+metroethernet radio link dsl,gpon işleyişleri öğrenildi
