@@ -628,3 +628,35 @@ Docker desktop wsl bağlantısı öğrenildi
 22.05
 internet hizmet altyapısı öğrenildi
 metroethernet radio link dsl,gpon işleyişleri öğrenildi
+23.05
+VMware Nedir? Niçin Kullanılır?
+VMware Programının Özellikleri Nelerdir?
+24.05
+2. VMWARE PROGRAMI İLE İŞLETİM SİSTEMİ KURMA
+İlerlemeniz
+Windows 7 Kurulumu
+Windows 7 Yapılandırması
+Windows 10 Kurulumu
+Windows 10 Yapılandırması
+25.05
+3. ACRONİS PROGRAMI İLE SİSTEM YEDEKLEME VE GERİ YÜKLEME
+Acronis ile Sistem Yedekleme
+Acronis ile Geri Yükleme
+Acronis ile Güvenli Alana Yedek Alma
+Acronis ile Klonlama İşlemi
+26.05
+4. WİNDOWS SERVER İŞLETİM SİSTEMİ KURMA VE YAPILANDIRMA
+4. WİNDOWS SERVER İŞLETİM SİSTEMİ KURMA VE YAPILANDIRMA
+İlerlemeniz
+Windows Server 2012 KurulumuVideo Time
+Tamamlandı
+Active Directory Domain Controler Kurulum için HazırlıkVideo Time
+Tamamlandı
+Active Directory Domain Controler KurulumuVideo Time
+Tamamlanmadı
+Domain Yapısına Client EklemeVideo Time
+Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Active Directory Domain Controler Kurulumu etkinliği tamamlandı olarak işaretlendi
+Organizational Unit KavramıVideo Time
+Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Domain Yapısına Client Ekleme etkinliği tamamlandı olarak işaretlendi
+Domain Yapısında Kullanıcı OluşturmaVideo Time
+Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Organizational Unit Kavramı etkinliği tamamlandı olarak işaretlendi
