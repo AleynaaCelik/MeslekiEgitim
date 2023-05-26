@@ -660,3 +660,4 @@ Organizational Unit KavramıVideo Time
 Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Domain Yapısına Client Ekleme etkinliği tamamlandı olarak işaretlendi
 Domain Yapısında Kullanıcı OluşturmaVideo Time
 Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Organizational Unit Kavramı etkinliği tamamlandı olarak işaretlendi
+R.11.123 olarak güncellenesi yapıldı Bozüyük MYO
