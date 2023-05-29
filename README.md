@@ -668,3 +668,4 @@ Ağ içindeli saldırıları yönetmek için kullanılır
 Sniffing konsepti ve kulllanı adı ile parola ele geçirme işlemleri gerçekleştirildi
 HTTPS sitelerin Bettercap ile incelenmesi konusu incelendi
 hsts prensebi ne olursa olsun trayıcı htpps çalıştır
+HTTPS siteleri HTTP'ye çevirmek için gerekli olan koşullar araştırıldı ve denendi
