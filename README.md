@@ -666,3 +666,4 @@ Wireshark kullanımı ve ARP saldırısı ile birlikte çalışması
 Bettercap aracının kullanımı incelendi
 Ağ içindeli saldırıları yönetmek için kullanılır
 Sniffing konsepti ve kulllanı adı ile parola ele geçirme işlemleri gerçekleştirildi
+HTTPS sitelerin Bettercap ile incelenmesi konusu incelendi
