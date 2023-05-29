@@ -669,3 +669,5 @@ Sniffing konsepti ve kulllanı adı ile parola ele geçirme işlemleri gerçekle
 HTTPS sitelerin Bettercap ile incelenmesi konusu incelendi
 hsts prensebi ne olursa olsun trayıcı htpps çalıştır
 HTTPS siteleri HTTP'ye çevirmek için gerekli olan koşullar araştırıldı ve denendi HTTPS Downgrade
+net.sniff on
+hstshijack kullanımı
