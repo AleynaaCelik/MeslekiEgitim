@@ -663,3 +663,4 @@ Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Organizational Unit Ka
 R.11.123 olarak güncellenesi yapıldı Bozüyük MYO
 29.05
 Wireshark kullanımı ve ARP saldırısı ile birlikte çalışması
+Bettercap aracının kullanımı incelendi
