@@ -661,3 +661,5 @@ Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Domain Yapısına Clie
 Domain Yapısında Kullanıcı OluşturmaVideo Time
 Sınırlandırılmış Bu gerçekleşmezse izin verilmez: Organizational Unit Kavramı etkinliği tamamlandı olarak işaretlendi
 R.11.123 olarak güncellenesi yapıldı Bozüyük MYO
+29.05
+Wireshark kullanımı ve ARP saldırısı ile birlikte çalışması
