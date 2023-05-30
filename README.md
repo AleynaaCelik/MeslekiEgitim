@@ -671,3 +671,6 @@ hsts prensebi ne olursa olsun trayıcı htpps çalıştır
 HTTPS siteleri HTTP'ye çevirmek için gerekli olan koşullar araştırıldı ve denendi HTTPS Downgrade
 net.sniff on
 hstshijack kullanımı
+30.05
+[08:49, 30.05.2023] Hüseyin PARMAKSIZ Hoca: 2530-24G-PoE+	YA.16.11.0005
+[08:49, 30.05.2023] Hüseyin PARMAKSIZ Hoca: JL677A	PL.10.11.0001 firmware güncellemeleri yapıldı
