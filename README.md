@@ -674,3 +674,7 @@ hstshijack kullanımı
 30.05
 [08:49, 30.05.2023] Hüseyin PARMAKSIZ Hoca: 2530-24G-PoE+	YA.16.11.0005
 [08:49, 30.05.2023] Hüseyin PARMAKSIZ Hoca: JL677A	PL.10.11.0001 firmware güncellemeleri yapıldı
+01.06
+Bilecik teknik meslek lisesi 11.sınıf öğrencileri ile bilgi işlem gezisi gerçekleştirildi.
+02.06
+supportdan gelen switch konfigüre edildi.
