@@ -1,15 +1,13 @@
 # MeslekiEgitim
-7+1 hakkında 
-20.02.2023/27.02.2023
+7+1 hakkında  
+20.02.2023/27.02.2023  
 Staj yaptığım yerde, başlangıçta bir tanışma süreci gerçekleştirdik ve çalışacağım ortamı daha yakından tanımak için birlikte bilgilendirme yapıldı. Proje olmasa da, staj yaptığım kurumun işleyişini ve faaliyetlerini anlamak için zaman ayırdık. Staj yapacağım departmanın görev ve sorumluluklarını öğrenerek stajyer olarak hangi alanlarda destek sağlayabileceğimi anlamaya çalıştım. Ayrıca, staj süresince benimle birlikte çalışacak kişilerle tanışarak işbirliği için iletişim kanallarını belirledik. Bu sayede, staj sürecim boyunca nasıl daha verimli olabileceğimi ve beklentileri nasıl karşılayabileceğimi anlamak için bir plan oluşturduk. Bu tanışma ve planlama aşaması, stajyer olarak geçireceğim sürecin başarılı bir şekilde ilerlemesine ve staj yaptığım kurumla uyumlu bir şekilde çalışmama yardımcı oldu.
-Github ve Git hakkında bilgi topladıktan sonra notlarımı düzenledim. Github, kodlarımızı depolamak için kullanabileceğimiz harika bir platform. Projelerimizi buraya yükleyebilir, kodlarımızı düzenleyebilir ve takip edebiliriz. Ayrıca, Issues özelliği ile projede karşılaştığımız sorunları ve yapmamız gereken görevleri takip edebiliyoruz. Bu sayede takım olarak işleri daha iyi organize edebiliyoruz ve birbirimizle daha etkili iletişim kurabiliyoruz.
-Github'ın Actions özelliği ise gerçekten harika. Otomatik eylemler yapmamızı sağlıyor. Örneğin, web sitesi oluşturma, Latex derleme veya görsel optimizasyon gibi işleri otomatik hale getirebiliyoruz. Bu sayede projelerimizi daha hızlı ilerletebiliyoruz ve daha verimli bir şekilde çalışabiliyoruz. Github Marketplace üzerinden ise farklı eklentiler ve araçlar bulabiliyoruz, böylece projelerimize uygun özellikleri kolaylıkla ekleyebiliyoruz.
+Github ve Git hakkında bilgi topladıktan sonra notlarımı düzenledim. Github, kodlarımızı depolamak için kullanabileceğimiz harika bir platform. Projelerimizi buraya yükleyebilir, kodlarımızı düzenleyebilir ve takip edebiliriz. Ayrıca, Issues özelliği ile projede karşılaştığımız sorunları ve yapmamız gereken görevleri takip edebiliyoruz. Bu sayede takım olarak işleri daha iyi organize edebiliyoruz ve birbirimizle daha etkili iletişim kurabiliyoruz.  
+Github'ın Actions özelliği ise gerçekten harika. Otomatik eylemler yapmamızı sağlıyor. Örneğin, web sitesi oluşturma, Latex derleme veya görsel optimizasyon gibi işleri otomatik hale getirebiliyoruz. Bu sayede projelerimizi daha hızlı ilerletebiliyoruz ve daha verimli bir şekilde çalışabiliyoruz. Github Marketplace üzerinden ise farklı eklentiler ve araçlar bulabiliyoruz, böylece projelerimize uygun özellikleri kolaylıkla ekleyebiliyoruz.  
 Bir diğer önemli özellik ise Wiki. Bu özellik sayesinde projelerle ilgili belgeler oluşturabiliyoruz. Kullanım kılavuzları, kaynaklar ve daha fazlasını burada paylaşabiliyoruz. Bu da projenin tüm paydaşlarına rehberlik etmek ve bilgi paylaşımını kolaylaştırmak için harika bir araç.
 Github'ın Forum özelliği de çok işimize yarıyor. Tartışmalar yapabiliyor, fikirlerimizi paylaşabiliyor ve anketler düzenleyebiliyoruz. Bu da projenin gelişimi için takım içinde işbirliği yapmamızı sağlıyor.
 Ayrıca, Github üzerinde pratik yaparak bir dosyayı klonlama, değişiklik yapma, bu değişiklikleri tekrar gönderme, merge etme ve branch oluşturma gibi temel kavramları öğrendim. Bu sayede projeleri daha iyi yönetebiliyor, değişiklikleri takip edebiliyor ve  takım arkadaşlarımla daha iyi bir şekilde işbirliği yapabiliyorum.
-Böylece Github ve Git'in temel işlevlerini ve kullanımını daha iyi anladım. Artık
-projelerimi daha düzenli bir şekilde yönetebilir ve takım arkadaşlarımla daha iyi bir
-şekilde işbirliği yapabilirim.
+Böylece Github ve Git'in temel işlevlerini ve kullanımını daha iyi anladım. Artık projelerimi daha düzenli bir şekilde yönetebilir ve takım arkadaşlarımla daha iyi birşekilde işbirliği yapabilirim.  
 Stajımın bir bölümünde Github eğitimi verdim ve Git Bash ile Git Gui uygulamalarını
 kullanmayı öğrendim. Bu eğitimde, Git'in komut satırı arayüzü olan Git Bash'i
 kullanarak projelerimi yönetmeyi ve değişiklikleri takip etmeyi öğretmeye çalıştım.
@@ -17,7 +15,7 @@ Ayrıca, Git Gui uygulamasını kullanarak grafik arayüz üzerinden de projeler
 etmeyi ve değişiklikleri gerçekleştirmeyi deneyimledim. Bu uygulamalar sayesinde
 projelerimdeki değişiklikleri kolayca görebiliyor, geri alma veya yeni bir dal oluşturma
 gibi işlemleri yapabiliyorum. Github ve Git'i daha iyi anlamam ve kullanabilmem için
-bana sağlanan bu eğitim büyük bir fayda sağladı.
+bana sağlanan bu eğitim büyük bir fayda sağladı.  
 Docker, uygulamaları hızlı ve güvenli bir şekilde çalıştırmak, dağıtmak ve yönetmek
 için kullanılan muhteşem bir araç! Diyelim ki, bir uygulamayı başka bir bilgisayarda
 veya sunucuda çalıştırmam gerekiyor. İşte tam bu noktada Docker devreye giriyor.
@@ -25,7 +23,7 @@ Docker sayesinde uygulamayı bir konteyner olarak paketleyebiliyorum. Bu konteyn
 uygulamanın ihtiyaç duyduğu her şeyi içerir: kod, bağımlılıklar, yapılandırmalar ve daha
 fazlası. Ardından, bu konteyneri herhangi bir ortamda çalıştırabilirim. Örneğin,
 geliştirme ortamında, test sunucusunda veya üretim sunucusunda sorunsuz bir şekilde
-çalışabilir.
+çalışabilir.  
 Docker'ın kullanım alanları oldukça geniştir. Özellikle yazılım geliştirme süreçlerinde
 büyük bir kolaylık sağlar. Projelerde farklı bağımlılıkların veya bileşenlerin olduğu
 durumlarda, bu bağımlılıkları izole edebilir ve her bir bileşeni kendi konteynerinde
