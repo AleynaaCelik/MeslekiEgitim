@@ -679,3 +679,4 @@ Bilecik teknik meslek lisesi 11.sınıf öğrencileri ile bilgi işlem gezisi ge
 02.06
 supportdan gelen switch konfigüre edildi.
 dell'leri güncellemeyi bitirdim. yarın garantiden gelen hp 2610'u ayarlayıp R.11.119 firmware'li anahtarın yerine takıp onu sökelim
+düzenleme gelecek
