@@ -1,0 +1,106 @@
+system {
+    host-name _Myo_Juniper48;
+    root-authentication {
+        encrypted-password "$1$SwYAzrlH$LQ03CE.2LaDsFYD9Hiloz/";
+    }
+    login {
+        user manager {
+            uid 2000;
+            class super-user;
+            authentication {
+                encrypted-password "$1$SwYAzrlH$LQ03CE.2LaDsFYD9Hiloz/";
+            }
+        }
+    }
+    services {
+        ssh;
+        web-management {
+            http {
+                interface all;
+            }
+            https {
+                system-generated-certificate;
+            }
+        }
+        dhcp {
+            traceoptions {
+                file dhcp_logfile;
+                level all;
+                flag all;
+            }
+        }
+    }
+    syslog {
+        user * {
+            any emergency;
+        }
+        host 192.168.120.250 {
+            any any;
+        }
+        file messages {
+            any notice;
+            authorization info;
+        }
+        file interactive-commands {
+            interactive-commands any;
+        }
+    }
+    ntp {
+        server 192.168.1A.D;
+        server 192.168.1B.F;
+    }
+}
+chassis {
+    aggregated-devices {
+        ethernet {
+            device-count 20;
+        }
+    }
+    alarm {
+        management-ethernet {
+            link-down ignore;
+        }
+    }
+}
+interfaces {
+    ge-0/0/0 {
+        unit 0 {
+            family ethernet-switching {
+                port-mode access;
+                vlan {
+                    members MYO;
+                }
+            }
+        }
+    }
+    ...
+    // Diğer arayüz konfigürasyonları burada yer alır
+    ...
+}
+snmp {
+    name _Myo_Juniper48;
+    description _Myo_Juniper48;
+    location t_Myo_Laboratuvar2;
+    contact ASYSM;
+    engine-id {
+        local 192.168.x.y;
+    }
+    community NAME{
+        authorization read-only;
+    }
+}
+routing-options {
+    static {
+        route 0.0.0.0/0 next-hop 10.8.a.b;
+    }
+}
+protocols {
+    ...
+    // Diğer protokol konfigürasyonları burada yer alır
+    ...
+}
+ethernet-switching-options {
+    ...
+    // Ethernet anahtarlama seçenekleri burada yer alır
+    ...
+}

@@ -1,0 +1,103 @@
+hostname z-Blok-x-y
+!
+no spanning-tree
+!
+no cwmp
+!
+install 0 S2910-10GT2SFP-P-E
+!
+sysmac 5416.515f.8fd0
+ip name-server <gizli>
+!
+enable service web-server http
+enable service web-server https
+web-server http redirect-to-https
+webmaster level 0 username manager password 7 036c340c546e52795f
+webmaster level 0 username admin password 7 132a115e5f71437d66
+!
+nfpp
+!
+no service password-encryption
+!
+redundancy
+!
+logging server <gizli>
+clock timezone UTC +3 0
+!
+no zam
+enable secret level 7 5 $1$jsMo$v6BBp22wwrxCE8z3
+enable secret 5 $1$nmWc$4z7vp3wvuzxrw031
+enable service ssh-server
+!
+vlan 55
+name Kamera
+!
+vlan 200
+name Yonetim
+!
+vlan 1
+!
+interface GigabitEthernet 0/1
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/2
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/3
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/4
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/5
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/6
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/7
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/8
+switchport access vlan 55
+poe enable
+!
+interface GigabitEthernet 0/9
+switchport access vlan 55
+!
+interface GigabitEthernet 0/10
+switchport mode trunk
+switchport trunk allowed vlan only 55,200
+!
+interface GigabitEthernet 0/11
+!
+interface GigabitEthernet 0/12
+switchport mode trunk
+switchport trunk allowed vlan only 55,200
+!
+interface VLAN 200
+ip address <gizli> 255.255.255.0
+!
+ntp server <gizli> version 2 source VLAN 200 prefer
+!
+ip route 0.0.0.0 0.0.0.0 <gizli>
+!
+snmp-server location Rektorluk
+snmp-server host <gizli> traps version 2c edebali
+snmp-server enable traps
+snmp-server contact h4ck3r
+snmp-server community edebali rw
+!
+line console 0
+line vty 0 4
+login
+password <gizli>
+!
+end

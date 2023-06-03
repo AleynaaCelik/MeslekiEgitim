@@ -1,0 +1,29 @@
+hostname Switch1
+!
+interface GigabitEthernet0/1
+ description Uplink to Router
+ ip address 192.168.1.1 255.255.255.0
+!
+interface GigabitEthernet0/2
+ description Server 1
+ switchport access vlan 10
+!
+interface GigabitEthernet0/3
+ description Server 2
+ switchport access vlan 10
+!
+interface Vlan10
+ ip address 10.0.0.1 255.255.255.0
+!
+ip default-gateway 192.168.1.254
+!
+line con 0
+ password consolepassword
+ login
+!
+line vty 0 15
+ password vtypassword
+ login
+!
+enable secret enablepassword
+!
