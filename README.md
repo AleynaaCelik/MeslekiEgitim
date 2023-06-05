@@ -709,3 +709,16 @@ dell'leri güncellemeyi bitirdim. yarın garantiden gelen hp 2610'u ayarlayıp R
 düzenleme gelecek
 05.06
 Pasif bilgi toplamanın önemi öğrenildi
+Pasif bilgi toplama, hedef hakkında izinsiz ve doğrudan etkileşime geçmeden bilgi toplama sürecidir. Bilgi güvenliği açısından önemli bir adımdır ve aşağıdaki nedenlerle büyük önem taşır:
+
+İstihbarat Toplama: Pasif bilgi toplama, istihbarat toplama sürecinin bir parçasıdır. Bilgi toplama, bir hedef hakkında değerli bilgilere ulaşmak için kullanılır. Bu bilgiler, hedefin sistemleri, altyapısı, kullanıcıları, yazılımları, ağ yapıları ve diğer kritik unsurlar hakkında farkındalık sağlar. Bu bilgiler, sızma testi, saldırılar veya savunma stratejileri gibi birçok alanda faydalı olabilir.
+
+Zafiyet Tespiti: Pasif bilgi toplama, bir sistemin veya ağın zayıf noktalarını tespit etmek için kullanılabilir. Hedef hakkında toplanan bilgiler, potansiyel güvenlik açıklarını belirlemek ve değerlendirmek için kullanılabilir. Bu, bir organizasyonun savunma stratejilerini güçlendirmesine ve saldırılara karşı daha iyi hazırlıklı olmasına yardımcı olur.
+
+Hedef Profil Oluşturma: Pasif bilgi toplama, bir hedefin profilini oluşturmak için kullanılır. Bu, hedefin demografik bilgileri, işlevleri, operasyonları, ilişkileri ve diğer özellikleri hakkında kapsamlı bir anlayışa sahip olmayı sağlar. Bu bilgiler, bir saldırganın hedefe yönelik saldırı stratejilerini planlamasına ve uygun yöntemleri seçmesine yardımcı olur. Aynı şekilde, savunma amaçlı olarak da hedefin profilini belirlemek, güvenlik önlemlerini güçlendirmek için kritik öneme sahiptir.
+
+Sosyal Mühendislik: Pasif bilgi toplama, sosyal mühendislik saldırıları için bir zemin sağlar. Saldırganlar, hedef hakkında toplanan bilgileri kullanarak manipülatif taktikler geliştirebilir ve hedefi yanıltabilir. Bu tür saldırılar genellikle insan faktörünü hedef alır ve güvenlik açıklarını sömürerek gizli bilgilere erişim sağlar.
+
+Risk Değerlendirmesi: Pasif bilgi toplama, bir organizasyonun risk değerlendirmesi sürecinde önemli bir rol oynar. Toplanan bilgiler, potansiyel tehditlerin ve zayıf noktaların belirlenmesine yardımcı olur. Bu bilgiler, güvenlik politikalarının ve önlemlerinin etkinliğini değerlendirmek ve iyileştirmek için kullanılabilir.
+
+Sonuç olarak, pasif bilgi toplama, güvenlik açısından kritik bir adımdır ve hem saldırganlar hem de savunma ekipleri için önemlidir. Bu süreç, bir organizasyonun güvenlik stratejilerini geliştirmesine, riskleri belirlemesine ve güvenlik önlemlerini güçlendirmesine yardımcı olur.
