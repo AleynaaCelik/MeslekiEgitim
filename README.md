@@ -722,3 +722,4 @@ Sosyal Mühendislik: Pasif bilgi toplama, sosyal mühendislik saldırıları iç
 Risk Değerlendirmesi: Pasif bilgi toplama, bir organizasyonun risk değerlendirmesi sürecinde önemli bir rol oynar. Toplanan bilgiler, potansiyel tehditlerin ve zayıf noktaların belirlenmesine yardımcı olur. Bu bilgiler, güvenlik politikalarının ve önlemlerinin etkinliğini değerlendirmek ve iyileştirmek için kullanılabilir.
 
 Sonuç olarak, pasif bilgi toplama, güvenlik açısından kritik bir adımdır ve hem saldırganlar hem de savunma ekipleri için önemlidir. Bu süreç, bir organizasyonun güvenlik stratejilerini geliştirmesine, riskleri belirlemesine ve güvenlik önlemlerini güçlendirmesine yardımcı olur.
+Google ile arama örnekleri yapılarak siber güvenlikte öneminden 
