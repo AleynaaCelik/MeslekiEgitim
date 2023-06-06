@@ -723,3 +723,5 @@ Risk Değerlendirmesi: Pasif bilgi toplama, bir organizasyonun risk değerlendir
 
 Sonuç olarak, pasif bilgi toplama, güvenlik açısından kritik bir adımdır ve hem saldırganlar hem de savunma ekipleri için önemlidir. Bu süreç, bir organizasyonun güvenlik stratejilerini geliştirmesine, riskleri belirlemesine ve güvenlik önlemlerini güçlendirmesine yardımcı olur.
 Google ile arama örnekleri yapılarak siber güvenlikte öneminden 
+06.06 
+iki farlı bilgisayara iperf indirilerek client ve server ilişkisi ile arızalı switchin portu kontrol edildi.
