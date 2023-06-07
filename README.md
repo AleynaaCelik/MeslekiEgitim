@@ -725,3 +725,7 @@ Sonuç olarak, pasif bilgi toplama, güvenlik açısından kritik bir adımdır 
 Google ile arama örnekleri yapılarak siber güvenlikte öneminden 
 06.06 
 iki farlı bilgisayara iperf indirilerek client ve server ilişkisi ile arızalı switchin portu kontrol edildi.
+iperf kullanımı 
+07.06
+hp 2610 f blok prokeksiyon switchi değiştirildi 
+wheather map nediir ubuntua nası kurulır araştırılması yapıldı 
