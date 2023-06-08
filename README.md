@@ -729,3 +729,5 @@ iperf kullanımı
 07.06
 hp 2610 f blok prokeksiyon switchi değiştirildi 
 wheather map nediir ubuntua nası kurulır araştırılması yapıldı 
+08.06
+Weather map ile okulumuz ağ haritası  çilzidi 
